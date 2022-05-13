@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Je hlína k snědku?</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Vstup</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Wachs &amp; Co</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Botanická zahrada (a trocha paleontologie k tomu)</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Po desáté</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Sprcha</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Toaletní mýdlo značky Jaro</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Tváří se, jako by nebyl</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Mišo</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Poštěváček a trocha překvapení</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Značkujeme Prahu</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Hmatatelný</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Botanická zahrada II</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Trocha radosti z barev</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Knihovna I</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Knihovna II</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Knihovna III</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Čichám se</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Malá aranžérka</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Mouchy, vemte si mě</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Babička je čistotná</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Vztyčuje prostředník</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Orál</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Krájím salámy</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Byla jsem někdy v Africe?</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Studí to do kotníků</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Holešovické krásy</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Nucený výsek</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Dotýkám se nohy Mišova tatínka</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Profesor</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Hovno</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Platýs a spol.</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Cesta mezi oplodněnými stromy</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Zabíjení ryb</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Je hlína k snědku?</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Bum</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Sním I</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Bude to fajn</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Sním II</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Na co jsem se ptala (a co mi řekli)</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Akciová společnost</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Es stimmt</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Krucifix</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-44"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Sudety</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-45"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Začíná válka a muž má starosti</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-46"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Romové</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-47"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Kuřata zařvala</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-48"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Tykám si se smrtkou</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-49"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Nic se mi nestane</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-50"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Stříkal jako hasič</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>V hrobě (ještě) nejsem</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Dvě krajiny (a obě celé)</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-53"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Zubama</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-54"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Gatě</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-55"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Jedl Tizian psy?</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-56"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Babička</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-57"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Tohle jde snadno pochopit</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-58"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Dolce</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-59"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Slepice</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-60"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Prst uvnitř</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-61"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Znovu</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-62"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-63"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Bylo lůno Panny Marie plné?</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-64"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-65"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Žum</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-66"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Blanka s Marií a Marie s Blankou</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-67"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Lemovaný stříbrem</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-68"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Bez záchranné vesty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-69"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Chlív znovu plný</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-70"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Přední strana čokolády</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-71"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Ledový čaj</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-72"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Jdeme dolů</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-73"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Masíčko</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-74"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Jdeme nahoru</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-75"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Chodím</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-76"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Barvy jsou tak daleko</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-77"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Potřebuje zenový mnich mapu?</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-78"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Kopule jako Tádž Mahal</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-79"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-80"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>Já I</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-81"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Designérský výstřelek</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-82"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>Chagalla jsem jí nikdy neukázala</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-83"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>Já II</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-84"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-85"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>Ornitologové pláčou</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-86"/>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Ty (&amp; já)</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-87"/>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Naštěstí nestiskla</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-88"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-89"/>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>Tak takhle je to</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-90"/>
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-91"/>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Překonala jsem se</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-92"/>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-93"/>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Americké filmy</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-94"/>
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-95"/>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>Dušniakovo kafe</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-96"/>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>Kremrole</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-97"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>Jako králíci</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-98"/>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>Mišova maminka má silný hlas</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-99"/>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-100"/>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>Český Krumlov</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-101"/>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>Vlasy I</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-102"/>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>Soustředíme se</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-103"/>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>Vlasy II</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-104"/>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>Haiku</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-105"/>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>Urna Hamé Babice</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-106"/>
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>Parte není záložka – i když by mohlo být</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-107"/>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>Na co si potrpím</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-108"/>
+    </navPoint>
+    <navPoint id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>Blanka nechce podvést České dráhy</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-109"/>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-110"/>
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-111"/>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>Tres faciunt collegium</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-112"/>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-113"/>
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>Mechanický velbloud</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-114"/>
+    </navPoint>
+    <navPoint id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-115"/>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>Sním III</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-116"/>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>Moderní muž &amp; péče o tělo</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-117"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>Mišovy nohy jsou věčné</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-118"/>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-119"/>
+    </navPoint>
+    <navPoint id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>Básně</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-120"/>
+    </navPoint>
+    <navPoint id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-121"/>
+    </navPoint>
+    <navPoint id="navPoint-122" playOrder="122">
+      <navLabel>
+        <text>Ty (a všichni ostatní)</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-122"/>
+    </navPoint>
+    <navPoint id="navPoint-123" playOrder="123">
+      <navLabel>
+        <text>Žena</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-123"/>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-124"/>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-125"/>
+    </navPoint>
+    <navPoint id="navPoint-126" playOrder="126">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-126"/>
+    </navPoint>
+    <navPoint id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>Moderní muž &amp; pohřební zvyky</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-127"/>
+    </navPoint>
+    <navPoint id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-128"/>
+    </navPoint>
+    <navPoint id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>Ještě trefím</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-129"/>
+    </navPoint>
+    <navPoint id="navPoint-130" playOrder="130">
+      <navLabel>
+        <text>Proniká ústy</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-130"/>
+    </navPoint>
+    <navPoint id="navPoint-131" playOrder="131">
+      <navLabel>
+        <text>Židovský hřbitov se v noci zamyká</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-131"/>
+    </navPoint>
+    <navPoint id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>Pražský místopis</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-132"/>
+    </navPoint>
+    <navPoint id="navPoint-133" playOrder="133">
+      <navLabel>
+        <text>Talking vagina</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-133"/>
+    </navPoint>
+    <navPoint id="navPoint-134" playOrder="134">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-134"/>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>Návod pro silné</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-135"/>
+    </navPoint>
+    <navPoint id="navPoint-136" playOrder="136">
+      <navLabel>
+        <text>Jméno</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-136"/>
+    </navPoint>
+    <navPoint id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>Zadar</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-137"/>
+    </navPoint>
+    <navPoint id="navPoint-138" playOrder="138">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-138"/>
+    </navPoint>
+    <navPoint id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>Maminka</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-139"/>
+    </navPoint>
+    <navPoint id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-140"/>
+    </navPoint>
+    <navPoint id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>V kavárně Louvre na Národní třídě</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-141"/>
+    </navPoint>
+    <navPoint id="navPoint-142" playOrder="142">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-142"/>
+    </navPoint>
+    <navPoint id="navPoint-143" playOrder="143">
+      <navLabel>
+        <text>Nedostatek stavebního materiálu</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-143"/>
+    </navPoint>
+    <navPoint id="navPoint-144" playOrder="144">
+      <navLabel>
+        <text>Sváteční produkce</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-144"/>
+    </navPoint>
+    <navPoint id="navPoint-145" playOrder="145">
+      <navLabel>
+        <text>Pod hladinou</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-145"/>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-146"/>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>Vzájemná transplantace orgánů</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-147"/>
+    </navPoint>
+    <navPoint id="navPoint-148" playOrder="148">
+      <navLabel>
+        <text>Autovrakoviště</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-148"/>
+    </navPoint>
+    <navPoint id="navPoint-149" playOrder="149">
+      <navLabel>
+        <text>Jednoduše a střelhbitě</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-149"/>
+    </navPoint>
+    <navPoint id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>A úplně</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-150"/>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>Zoubky</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-151"/>
+    </navPoint>
+    <navPoint id="navPoint-152" playOrder="152">
+      <navLabel>
+        <text>Ty</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-152"/>
+    </navPoint>
+    <navPoint id="navPoint-153" playOrder="153">
+      <navLabel>
+        <text>Maluju</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-153"/>
+    </navPoint>
+    <navPoint id="navPoint-154" playOrder="154">
+      <navLabel>
+        <text>Ve velkém</text>
+      </navLabel>
+      <content src="Text/je_hlina_k_snedku_005.xhtml#_idParaDest-154"/>
+    </navPoint>
+  </navMap>
+</ncx>
