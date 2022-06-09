@@ -4,8 +4,6 @@ contentType: prose
 
 ## Vstup
 
-  
-
 Jmenuju se Nina. Narodila jsem se 23. března roku 1893 v Praze.
 
 Můj dědeček hrál na klavír. Nikdy nedosáhl virtuozity, ale hrál víc než obstojně. Měl černé křídlo značky Nanette.
@@ -158,8 +156,6 @@ Zemřela jsem ještě před koncem války. Mrzelo mě, že muž Abrahama Animuse
 
 ## Wachs & Co
 
-  
-
 Od té doby, co jsem se vdala, nemůžu malovat. Ne že by mi v tom muž bránil, že by mi říkal: Nemůžeš! Naopak, koupil mi nejdražší barvy (značky Winton a Talens) a množství kelímků, štětců, redisper a špachtliček; japonskou tuš, plátno a ruční papír.
 
 Ale nápady nepřicházejí. Ani jsem krabice s těmi věcmi neotevřela; na některých jsou ještě pečeti, houpají se na špagátku na dřevěných bedničkách, jako by to byla zásilka drahých vín. A mě vůbec neláká je odemknout a prohlížet a nasávat do nosu jejich vůni, i když jsem to kdysi měla ráda.
@@ -204,8 +200,6 @@ V prvním týdnu jsme se s mužem také pomilovali na mramorové kuchyňské d
 
 ## Botanická zahrada (a trocha paleontologie k tomu)
 
-  
-
 Dneska mě bolí čelist. Chodím po domě jako tělo bez duše, z místnosti do místnosti a mnu si bradu. Před zrcadlem v ložnici na sebe vycením zuby.
 
 Bolí mě ten kousek vsazené kosti, přichycený zlatými šroubečky k lebce. Nedá se s tím dělat vůbec nic, musím počkat, až to samo přestane, až mě má vymyšlená, přízračná bolest opustí, až si ji přivolají mé skutečné zuby, rozdrcené na prach a povalující se kdesi v lese.
@@ -228,8 +222,6 @@ U jiných jeho oči pronikají až dovnitř, slupičku po slupičce, u mě se 
 
 ## Po desáté
 
-  
-
 V noci se ke mně přitulí. Přejede mi rukou po prsu, břiše, stehně.
 
 Dneska je určitě vhodný čas, řekne mazlivě.
@@ -239,8 +231,6 @@ Dneska by z toho byl kluk, odpovím, a on už mi vsune do ruky svůj tlustý p
 Jeho semeno ve mně zaschne a já ho ze sebe odloupnu jako mléčný škraloup z šálku na kávu.
 
 ## Sprcha
-
-  
 
 Jídlo je to jediné, v čem si rozumíme.
 
@@ -262,15 +252,11 @@ Pak slyším, jak startuje auto a opatrně se rozjíždí dolů ulicí.
 
 ## Toaletní mýdlo značky Jaro
 
-  
-
 V koupelně je vlhký horký vzduch. Voní tu jeho mýdlo. Otevřu sprchový kout a všimnu si, že ho nezvedl, zůstalo zabořené v odtoku a kolem něj se utvořil úzký prstenec pěny. Vezmu ho do ruky, a protože je mokré, vyklouzne mi a znovu se zaklíní do výlevky.
 
 Vlezu si do emailové vaničky, sednu si na bobek a dám se do pláče.
 
 ## Tváří se, jako by nebyl
-
-  
 
 Pokaždé, když mluvím o Mišovi, celá ztuhnu, napřímím se a krk se mi sevře.
 
@@ -288,15 +274,11 @@ Můžu vás potěšit, řekl nakonec doktor. Zůstaly vám zachovány podjazykov
 
 ## Mišo
 
-  
-
 Mišo stál na podstavci úplně nahý. Proti němu bylo umístěno světlo na vysoké noze; bodovou žárovku měl namířenou přímo do očí a další na penis, který mu na stehno vrhal hedvábný stín. Na podstavci stálo: Mišo. Člověk. A u lampy bylo nainstalováno ještě velké zrcadlo pro lidi, kteří se na něj neodvažovali pohlédnout přímo.
 
 Chvíli jsem se dívala do zrcadla, a pak jsem se otočila. Mišo mhouřil oči před pichlavým světlem lampy a čelo měl plné vrásek. Musel se na mě dívat škvírami mezi víčky.
 
 ## Poštěváček a trocha překvapení
-
-  
 
 Druhý den jsem se na výstavu vrátila.
 
@@ -334,8 +316,6 @@ Podívala jsem se na Miša. Upíral na mě oči, leskle a zvědavě, penis vzty
 
 ## Ty
 
-  
-
 Oblékla jsem si plátěné letní šaty a na hlavu jsem si vzala klobouk s širokým okrajem. Vyšla jsem nahoru k Babě, opřela se o zeď a zavřela oči.
 
 Pak jsem ucítila vůni cigarety.
@@ -350,8 +330,6 @@ Cítila jsem, že pěkně navážu na jeho slovenštinu, zase se střídala ostr
 
 ## Značkujeme Prahu
 
-  
-
 Jsem počatá z ducha svatého, řekla jsem Mišovi, jsem transparentní. A Mišo mě líbal naléhavě, jako když pes očuchává fenku. Lízal mě a šťouchal jazykem, sál a olizoval, kousal, svíral a bral do rtů. Na ulici mě chytal za zadek, v noci se se mnou tiskl do zešeřelých koutů, které si už dávno vybral někdo před námi a pomočil je, a tam do mě vstupoval prsty. Mluvil přesně tak, jak jsem to cítila v záhybech duše; myslíš jenom na to, viď, říkal.
 
 Ano, odpovídala jsem. Myslím jenom na to. Na tvůj ocas, červený, slizký a tvrdý.
@@ -361,8 +339,6 @@ A nahmatala jsem ho v kalhotách, odhrnula předkožku a nechala si ho vystř
 Pokropili jsme svou šťávou spoustu pražských ulic a náměstí.
 
 ## Ty
-
-  
 
 Tak ti to teď všechno vyprávím, můj milý, ležím při tom v posteli, jako ležely všechny velké vypravěčky, tou z Tisíce a jedné noci počínaje. Ty chystáš něco k jídlu, mluvím do tvých zad a nespouštím z nich oči, zaznamenávám každý tvůj pohyb; když se natahuješ pro pánev, krájíš slaninu a cibuli, rozbíjíš vejce a opatrně je pouštíš na rozpálený olej, až se naše maringotka zaplní vůní silnou jako modlitba. Pácháme činnosti zapsané v lidech od počátku, jíme a vyprávíme.
 
@@ -375,8 +351,6 @@ Mišo to jednou namaloval. Tma a v ní dvě oči. Bělma září už z dálky
 Velepíča.
 
 ## Hmatatelný
-
-  
 
 Na jaře měl Mišo první samostatnou výstavu. Poprvé si ji organizoval sám, bez přispění fakulty. Běhal jako šílený, pořád něco zařizoval, vyhazoval peníze za tisknutí pozvánek a plakátů, které jsme večer rozlepovali po Praze, abychom je druhý den našli strhané nebo posprejované a ušpiněné k nepřečtení.
 
@@ -400,8 +374,6 @@ Mlč, řekl Mišo. Dítě se narodí a umře.
 
 ## Botanická zahrada II
 
-  
-
 Můj muž je pečlivý. Ani při nejvyšším pracovním vypětí mi nezapomíná přinést květiny nebo čokoládu. Ptá se mě, jak jsem se vyspala. Nechává mi na kuchyňském stole každý týden apanáž, zatíženou kamenem, který mi přivezl ze své pracovní dovolené.
 
 Pozorně se mě vyptal, jaký parfém ráda používám. Od té doby bedlivě sleduje jeho hladinu ve skleněném flakonu, a když se povážlivě sníží, přinese mi nový.
@@ -413,8 +385,6 @@ Přesto však tápe ve všem, co se mě týká. Nic o mně neví.
 Při milování někdy šeptá moje jméno. Ale to jenom výjimečně. Muži bývají při milování tišší.
 
 ## Trocha radosti z barev
-
-  
 
 Připadalo mi, že Mišo sám je součástí obrazů, na které se díval. Pevná struktura povrchu začala pod jeho očima tát, tetelila se jako asfalt na slunci, takže Mišovi stačilo natáhnout ruce a vytrhovat z obrazu jednotlivé barvy jako orgány, až se dostal na pastový podklad a dál ke struktuře plátna.
 
@@ -436,8 +406,6 @@ To se ti jenom zdá, říkal Mišo. Zdám se ti větší, protože stojím na hr
 
 ## Knihovna I
 
-  
-
 Dojela jsem autobusem na Hradčanskou a odtud metrem na Staro­městskou. Na jezdících schodech mi vzal vítr klobouk. Dívala jsem se, jak letí přes hlavy lidí pode mnou a přistává na peronu. Spadl k nohám nějakému muži, ten se nechápavě rozhlédl a pomalu ho zvedl. Nestihla jsem se otočit a on si mě všiml, jeho mysl si spojila luxusní dámský klobouk s mojí bílou postavou na vrcholu schodů, rychle na mě zamával mým vlastním kloboukem, ale já už jsem byla nahoře a neměla jsem chuť na něj čekat.
 
 Nechala jsem se vynést zástupem lidí ven, do oslňujícího parného dne. Zamířila jsem k Městské knihovně, prošla rychle kolem galerie, zaregistrovala plakát zvoucí na nějakou výstavu, ale nezastavila jsem se, abych zjistila jakou, a vešla jsem prosklenými dveřmi do vysokého atria knihovny. Ohromila mě vysoká věž z knih, postavená na vrcholu schodiště. Její výška se ještě násobila, když jsem pohlédla do jejího nitra, ale to bylo způsobeno vloženým zrcadlem. Někdo hodil dovnitř ubrousek, špinavou bílou kouli, která se držela na lesklém povrchu zrcadla, a tak jsem nežila ani chvilku v blaženě úzkostné iluzi o hloubce věže.
@@ -454,8 +422,6 @@ Okouzlovala mě jeho nevinná pěšinka, plná bílých lupů.
 
 ## Knihovna II
 
-  
-
 Záchody v knihovně byly malé a špinavé. Rozkročila jsem se nad mísou a vyčurala se. Podle neklidných kroků za dveřmi jsem poznala, že se na záchodě tvoří fronta. V kabince vedle mě někdo spláchl. Sáhla jsem po papíru, ale žádný jsem nenahmatala. Natáhla jsem si kalhotky a cítila, jak trochu vlhnou. Mísa byla plná žluté vody. Dneska jsem málo pila.
 
 Uvolnila jsem kabinku pro mladou ženu s koženou taškou přes rameno.
@@ -466,8 +432,6 @@ Otevřela jsem si mokrýma rukama a prošla chodbou kolem recepce, kde mladý m
 
 ## Knihovna III
 
-  
-
 Zpočátku jsem se neorientovala, ale pak jsem si všimla ukazatelů a rozcestníků. Pobavilo mě, že je tu stejný orientační systém jako v lese a na turistických mapách. Oddělení výtvarného umění jsem našla snadno. Stála jsem před policemi s knihami a rychle přejížděla očima po jejich hřbetech. Potichu jsem si četla jména, která na nich byla vytištěna. Potěšilo mě, že jsem se nemýlila – knihovna neměla skoro žádné nové přírůstky, většina svazků byla ohmataná a přelepovaná.
 
 Vzala jsem si několik knih a vydala se nahoru do patra. Vybrala jsem si stolek u okna, v jehož sousedství nikdo neseděl. Položila jsem knížky před sebe a pozorovala je. Navrchu ležel Klee. Dívala jsem se na obálku, kterou jsem znala od Miša, a pak jsem knihu otevřela. Brala jsem do prstů tuhé stránky a četla si popisky pod reprodukcemi. Zprostředka na mě vypadaly drobky. Téměř jsem nedýchala, prohlížela jsem si obrazy, a když jsem došla na konec, knížku jsem odložila a vzala si další. Bosch, Derain, Marquet.
@@ -475,8 +439,6 @@ Vzala jsem si několik knih a vydala se nahoru do patra. Vybrala jsem si stolek
 Dívala jsem se na obrazy a připadala si jako člověk, který se napije alkoholu, který mu protrhne stavidla, a on náhle vidí všechno, co bylo a co být mohlo, a nepřestává o tom mluvit, dokud ze sebe nevydá úplně všechno, a i pak překvapeně zjišťuje, že má ještě rezervy.
 
 ## Čichám se
-
-  
 
 Když jsem odcházela z knihovny, zahlédla jsem se v několika výkladních skříních. Před jednou jsem se zastavila a pozorovala se. Bylo to něco úplně jiného než doma v zrcadle. Kolem mě proudili lidé a já se pozorně sledovala ve výloze, mezi vystaveným spodním prádlem, župany a nočními košilemi. Viděla jsem dlouhé hubené tělo, bílé kalhoty ke kotníkům a páskové boty na podpatku. Světlá blůza s prostřiženými rukávy, u krku rozevřená. Tvář jsem měla bílou; nedotčenou sluncem, jako kdyby se mě horko, mořící ostatní, netýkalo. Přešlápla jsem a obraz ve výloze se pohnul.
 
@@ -488,15 +450,11 @@ Večer si v ložnici svlékám oděv a nenasytně čichám do podpaží, a t�
 
 ## Malá aranžérka
 
-  
-
 Dlouhou dobu jsem byla sama. Procházela jsem pražskými ulicemi, na nohou boty s vysokými podpatky, které se často vklínily do rozpraskané dlažby Starého Města. Nejprve jsem pracovala jako učitelka v mateřské škole, a když mě vyhodili, našla jsem si místo jako aranžérka výloh v jednom krámu v Pařížské. Ta práce mě bavila, protože mi do ní nikdo nemluvil. Výlohy se měnily každý týden, a kromě mě tomu nikdo nerozuměl. Prodavačky byly hloupé, oblečené do světlých kostýmů s modrou lemovkou, nehty upravené podle poslední módy a vlasy přírodní, vyfoukané přes kulatý kartáč v luxusním salonu, za prachy, za které by se najedla čtyřčlenná rodina. Přicházela jsem každé úterý, pozdě večer. Odemkla jsem si vlastním klíčem, rozsvítila hlavní lustr a klouzala se po vydlaždičkované podlaze. Za místností, ve které se skladovaly prázdné krabice, staré faxy a balicí papír, byl malý kumbál, kde jsem měla kusy lesklých látek, kašírované figuríny, uschlé květiny, zvětšené fotografie, drátky, dřevěné krabice, vycpávky do oblečení, kameny a spoustu dalších věcí, které jsem používala při úpravě výkladů. Tady jsem si uvařila hrnek kafe – použila jsem při tom rychlovarnou konvici z místnosti prodavaček – a bloumala po obchodě, probírala jsem se ramínky s oblečením, které přišlo za poslední týden, a prohlížela jsem si ceník, ležící na pultě.
 
 Nakonec jsem se vrhla na úpravu výkladu. Připravila jsem ho tak, aby se kolemjdoucí namlsali; aby je oblečení drápkem zachytilo a přitáhlo dovnitř, jednoduché a elegantní, tvářilo se jako obyčejné šaty, a zevnitř svítilo přepychem a pohodlím. Měla jsem radost z toho, že jsem se mohla dotýkat heboučkých látek, zavěšovat je na neviditelné drátky a předstírat, že jsou vyplněné éterickým a průsvitným masem.
 
 ## Mouchy, vemte si mě
-
-  
 
 Babička někdy otevřela okno a nechala viset záclonu ven. Když se zvedl vítr, záclona sebou škubala na háčcích, jako by chtěla odletět, urvat se a zmizet napořád pryč, rozpustit se v nebi. Byla to pořádná záclona, dlouhá, bílá, háčkovaná, plná záhybů, jemných pavučin a potrhaných ok; když v prudkém větru vlála k nebi a k židovskému hřbitovu, turisté se dole na chodníku zastavovali, ukazovali si na ni a fotografovali ji.
 
@@ -508,8 +466,6 @@ Babička mě dala do školky, ale tam jsem nemohla vydržet. Nechápala jsem, pr
 
 ## Babička je čistotná
 
-  
-
 Čím byla babička starší, tím víc se měnila. Možná se jenom posouvala hlouběji, opravdovělo v ní všechno, co jí umožňovalo žít mezi černými domorodci a co ji vzdalovalo od lidí její vlastní kultury.
 
 Sedávala mlčky v křesle, vysoká a pružná, mhouřila oči a skoro nedýchala. Když jsem přicházela, zdravila jsem ji už z předsíně: Ahoj babičko, a ona neodpovídala, ani se nehnula. Jídávala jsem u ní v pokoji a jenom podle zostřených rysů a nastražených uší jsem poznala, že o mně ví.
@@ -519,8 +475,6 @@ Chodívala jsem po ní ráda do koupelny. Měly jsme starou koupelnu, studenou a
 Byla to vůně, která vycházela z nitra babiččiny bytosti, kam nemohlo stáří a kam se pak stáhla, přede mnou a před světem.
 
 ## Vztyčuje prostředník
-
-  
 
 Můj muž se rád miluje.
 
@@ -536,8 +490,6 @@ Ve snech ho přistihuju, jak se po očku dívá na Miša, opatrně se zvedá, bl
 
 ## Orál
 
-  
-
 Felací v užším smyslu rozumíme kompletní stimulaci penisu rty a ústy. Provádí se vsouváním a vysouváním údu se staženou předkožkou do úst a z úst, přičemž žalud a prostor několika centimetrů pod ním smí být drážděn jen rty a nikoliv zuby, které v tomto případě působí převážně rušivě.
 
 Nedalo se to poslouchat. Vytáhla jsem rádio ze zásuvky a stočila se na pohovku. Nechtělo se mi nic.
@@ -552,8 +504,6 @@ A bylo po orálu.
 
 ## Krájím salámy
 
-  
-
 Na konci osmé třídy jsem dostala vysvědčení a zůstala doma s ba­bičkou. To ještě babička vycházela ven; chodily jsme spolu do muzeí a na výstavy, půjčovaly si v Klementinu knížky a povídaly si na lavičkách na břehu Vltavy. Někdy jsme se vracely domů pozdě v noci. Jednou večer, když jsem si s babičkou vyšla na Petřín, zeptala jsem se jí, co by si přála, abych dělala. Babička se nerozmýšlela ani chvíli a řekla: Dělej, co chceš. Je v tobě velká síla. Jsi rovná jako prut. Můžeš dělat cokoliv.
 
 Rozhodla jsem se, že do žádné další školy chodit nebudu. Začala jsem chodit na různé brigády, umývala jsem nádobí a krájela v supermarketu maso. Pracovala jsem jako servírka v několika kavárnách. A nikdy se se mnou nikdo nebavil, jako bych byla duch. Jednou jsem zaslechla, jak si o mně ostatní servírky šeptají, že cením zuby a odchlipuju rty, jako kdybych chtěla návštěvníky sežrat.
@@ -563,8 +513,6 @@ Strašně ráda jsem se procházela po vltavských březích; vstávala jsem kv�
 Když mě přestalo bavit aranžovat výlohy, dala jsem výpověď. Chvilku jsem se jen tak potulovala, a pak jsem se přihlásila na školu, ke studiu dětské ilustrace.
 
 ## Byla jsem někdy v Africe?
-
-  
 
 Na závěr přijímacích zkoušek byl rozhovor s vedoucím ateliéru. Seděl proti mně starý muž v rozhalené košili, ruce měl položené volně na stole a usmíval se. Prohlížel si mě světle modrýma očima, zastavil se u vlasů, pokračoval přes rty, krk, ruce v klíně.
 
@@ -579,8 +527,6 @@ Byla jste někdy v Africe? zeptal se. Zavrtěla jsem hlavou.
 A pak jsem mu pověděla o babičce. Řekl, že si zamiloval moje kresby a že budu studovat u něj.
 
 ## Studí to do kotníků
-
-  
 
 Těhotná nejste, řekl doktor a mně se ulevilo. Seskočila jsem z jeho mučícího křesla tak lehce, jako kdyby mi narostla křídla. Odskotačila jsem za zástěnu a natáhla si kalhotky. Při tom jsem se poplácala po břiše. Je prázdné! Div jsem si nezačala zpívat.
 
@@ -600,15 +546,11 @@ Vstala jsem a sáhla si na věšák pro kabelku. Orazítkoval a podepsal recep
 
 ## Holešovické krásy
 
-  
-
 Šla jsem rychle po nábřeží. Krok za krokem, pryč z Letné, do holešovických ulic, mezi staré továrny, zanedbané domy a doky se špinavou vodou. Když jsem byla daleko od ordinace, sestoupila jsem k řece a posadila se na břeh. Bylo vedro. Břehy byly vybetonované, špinavé a plné vajglů. Opodál někdo koupal psa. Myslela jsem na dohodu se svým tělem. Dohodu, že nepropustí do svého nitra mužovo semeno. Přikázala jsem mu to a ono poslechlo. Byla to poslední věc, ve které jsem mu dokázala poručit. Cítila jsem, jak se mé nitro chvěje před mužovými výstřiky, poplašně uzavírá brány a z hradeb kyselého hlenu dělá na neúspěšné spermie dlouhý nos.
 
 Už jsem svou sílu dokázala použít jenom k tomu, abych se stala sterilní.
 
 ## Nucený výsek
-
-  
 
 Jako první jsem o profesoru Wabneggerovi zjistila, že není ženatý.
 
@@ -640,8 +582,6 @@ Když jsme se loučili mezi dveřmi, profesor řekl tiše jako myška, sotva jse
 
 ## Dotýkám se nohy Mišova tatínka
 
-  
-
 Překvapilo mě, jak jsou Mišovi rodiče staří. Seděli jsme u stolu s pruhovaným ubrusem, jedli polévku s knedlíčky a mlčeli. Mišovi rodiče občas povzdechli. Matka i otec. Oba. Poctivě si nabírali polévku, a když jsme dojedli, Mišova matka se zvedla, sebrala nám talíře a odešla s nimi do kuchyně. Pak přinesla mísu s masem a zelí. V zelí byly kousky upražené slaniny. Podívala se na mě a já se usmála. Mišo hltal.
 
 Napnula jsem nohy pod stolem a dotkla se nohy Mišova tatínka.
@@ -655,8 +595,6 @@ Nevím, řekl. Je to jejich způsob hovoru. Vzdychali, už když jsem byl dítě
 Stáli jsme v Mišově dětském pokoji. Ze stropu visely papírové modely letadýlek.
 
 ## Profesor
-
-  
 
 Profesor voněl jako staré plátno. Ztmavlými, dávnými barvami a rozesychajícím se dřevem. Seděli jsme na rohožích pod oknem a dívali se ven. Opíral se o ruce. Měl křehké ruce, s hebkou tmavou kůží a tenkými prsty; s bílými kulatými nehty, které svítily ve tmě.
 
@@ -682,8 +620,6 @@ Obklopovala nás černočerná tma.
 
 ## Hovno
 
-  
-
 Víš, že sperma stříká rychlostí šestnáct kilometrů za hodinu? zeptal se Mišo. Leželi jsme v horké trávě za městem. Natáhla jsem ruku a zkoušela dosáhnout na keříček lesních jahod opodál.
 
 Jak to víš? Pečlivě jsem si jahody prohlédla. Byly tak drobné, že si nezasloužily nic jiného než smrt.
@@ -699,8 +635,6 @@ Nevím, řekla jsem. Ale zajímají mě.
 Hovno, zamručel Mišo.
 
 ## Platýs a spol.
-
-  
 
 Večeříme s mužem, mrtvým mužíkem, v restauraci pro snoby. Už jsem si zvykla, že mezi ně patřím. Tvoříme uzavřené šiky jako cvičenci při spartakiádě nebo Hitlerův fanklub.
 
@@ -728,8 +662,6 @@ Pustíme se do jídla. U ryby se nemluví.
 
 ## Cesta mezi oplodněnými stromy
 
-  
-
 Jdeme do sebe zavěšeni. Má měkké kožené polobotky, které nedělají hluk.
 
 Zatím je zticha, ale hýbe se mu brada. To znamená, že se chystá něco říct. Čeká, až se mu mysl naplní slovy a ta sama vybublají ven.
@@ -744,8 +676,6 @@ Nino.
 
 ## Zabíjení ryb
 
-  
-
 Zabíjení ryb – poučení:
 
 Aby nám ryba při zabíjení neuklouzla, bereme ji již při vyndávání z vody utěrkou. Dáme ji na prkénko, přes hlavu ji přehodíme cíp utěrky a paličkou na maso omráčíme. Potom jí nožem přeřízneme páteř hned za hlavou.
@@ -759,8 +689,6 @@ Ryba zkažená a v rozkladu má zapadlé oči, rohovky potažené slizem, kter
 Ryba čerstvá má lesklou kůži, jasné, vypoulené oči, pevně a pružné maso na břiše, kosti a šupiny pevně zasazené, jasně červené žábry a soudržné vnitřnosti.
 
 ## Je hlína k snědku?
-
-  
 
 Jsou z něj cítit ryby, které jsme měli k večeři.
 
@@ -792,8 +720,6 @@ Naberu si plnou hrst hlíny a nacpu si ji do pusy. Žvýkám ji jako o závod 
 
 ## Bum
 
-  
-
 Máme zhasnuto. Chvíli nevím, jestli jsem s ním, nebo s Mišem. Oknem vstupuje úsvit. Kdybych byla s Mišem, blížila by se jeho hodina. Muž vedle mě vzdychne ze spánku a přetočí se na bok. Poznávám, že je to mrtvý mužík, můj muž.
 
 Nemůžu spát. Dívám se na své ruce, přibližuju si je až k očím a zkoumám, jestli mám za nehty hlínu.
@@ -820,8 +746,6 @@ Stejně jsem se cítila trošku provinile, když jsem si v něm ráno chystala 
 
 ## Sním I
 
-  
-
 Když se mi to stalo s Mišem, připadala jsem si jako nějaká okradená stařena, stojící uprostřed rušné ulice… Prsty jsem měla ještě sevřené kolem držadla tašky, která už neexistovala.
 
 Probudila jsem se v modře pruhovaných peřinách. Látka byla drsná a vrzala v prstech. Miša jsem viděla okamžitě. Skláněl se nade mnou, usmíval se a v ruce držel konvičku s čajem. Tvářil se, jako by se nic nestalo. Jako bych včera vyprala peřiny, pověsila je na provaz napnutý mezi dvěma jabloněmi a večer měla radost, že mi uschly. Měl svěží tvář a mhouřil oči. Takhle se tvářil pokaždé, když se mu něco povedlo. Obraz, jídlo; když mě porazil v šachách; když vsál jedinečný západ slunce; když objevil nějakou svoji malou pravdu.
@@ -847,8 +771,6 @@ Vždycky, když se ve snu probouzím v pruhovaných peřinách, vím, že je us
 Přichází Mišo a hrajeme spolu svou hru. Slova do sebe zapadnou jako šroub do hřídele.
 
 ## Bude to fajn
-
-  
 
 Snídaně je chudá na slova. Občas na sebe s mužem narazíme očima. Nemluví, protože i já mlčím. Drží se mnou basu.
 
@@ -904,15 +826,11 @@ Rychle jsem se natáhla a nacpala si ústa masem.
 
 ## Sním II
 
-  
-
 Zdá se mi, že žiju v průhledné krabici. Stěny jsou ze skla, studené a kluzké. Zkouším jimi projít, ale nedaří se mi to. Mám na to dvě finty – buď se rozbíhám a pokouším se je prorazit silou, nebo se k nim blížím opatrně, skoro se plížím, jako by měly život a mohly si mě všimnout, a pak se na ně přisaju rukama, ohmatávám je, kloužu po nich a usilovně hledám alespoň malý otvor, dvířka pro kočku, kterými bych se mohla protáhnout. Pokaždé skončím v rohu, s koleny u brady, rozbitá a se zploštělýma rukama.
 
 Někdy se z toho snu probouzím v pruhovaných peřinách a v čajovém oparu se na mě usmívá Mišo. Když dohrajeme svou slovní hru, pokouším se Miša zachytit. Natahuju po něm ruce jako matka po svém dítěti, ale Mišo se mi vysmekne a uniká. Rozčiluje mě, jak mi tím dává najevo, že patří do říše snů. Nohama umazanýma od hlíny se vznáší nad zemí a dívá se na mě. Nemohu ho zachytit. Já jsem z hlíny a Mišo je nebešťan.
 
 ## Na co jsem se ptala (a co mi řekli)
-
-  
 
 Měla jsem tři rozmluvy venku a jednu uvnitř.
 
@@ -962,8 +880,6 @@ Proč bys nemohla, řekla. Po jedné cestě se může ubírat víc lidí.
 
 ## Akciová společnost
 
-  
-
 Lepila se na nás tma.
 
 Bože, řekl do ní Mišo. Všechno je na tobě dvakrát. Dvě ruce, dvě nohy, dvě ledviny.
@@ -975,8 +891,6 @@ Dvě prsa. Položil mi hlavu mezi ně a rozplakal se. Dvě prsa, pro každého 
 Sere mě to! řekl a znovu stiskl mezi rty svůj podíl.
 
 ## Es stimmt
-
-  
 
 Já jsem v tom měla jasno. Připadala jsem si široká jako krajina a bylo mi jedno, kolik ze mě trčí stožárů. Byla jsem napnutá jako hedvábné vlákno mezi dvěma stromy, pukala jsem láskou.
 
@@ -1014,15 +928,11 @@ Večer jsem ležela vedle profesora a říkala jsem mu to, ale uprostřed se m�
 
 ## Krucifix
 
-  
-
 Vyprávěla jsem Mišovi o všem, co jsme s profesorem dělali, a Mišo mlčel, protože na to nemohl nic říct, sám byl součástí triptychu. Věděl, že je to něco za něco; byli jsme rozpjatí jako křídla dravého ptáka, závratně vysoko.
 
 Byli jsme jako dřevěná trojnožka, kterou si nosí hospodyně na dojení; zasahovali jsme do takové šířky, že mohla být spodobněna jenom na renesančních deskových obrazech, jenom na oltáři.
 
 ## Sudety
-
-  
 
 Pootevřená krajina, jako ústa staré ženy. Nechci, aby byla zacelena.
 
@@ -1046,8 +956,6 @@ Jsme tu spolu a Mišo se zase rozevírá jako houba, dychtivě nasává a v m
 
 ## Začíná válka a muž má starosti
 
-  
-
 Muž mi leží v náručí a chvěje se. Je noc. Zítra začnou bombardovat Irák. A můj muž za bílou zástěnou bude stříkat do skleněného válce.
 
 Co když se mi nepostaví? zašeptá mi do ucha.
@@ -1066,8 +974,6 @@ Nic. Vzdychne a stočí se vedle mě do klubíčka.
 
 ## Romové
 
-  
-
 Je to krajina, která snese všechno. Zažila už toho tolik, že všechno je pro ni nic. Uvědomuje si to i Mišo, když mlčky sedí na kraji lesa a dívá se před sebe.
 
 Ruce mám spojené v klíně, studené prsty, pronikám očima do Mišovy tváře. Je klidný. Tak už ho potom nikdy neuvidím, ani v té jedné vteřině, která rozhodne o naší proměně; Mišo je tak klidný, že z toho budu pumpovat až do konce života.
@@ -1084,8 +990,6 @@ Kolem nás byla spousta barev, temně hnědý les a bílý dům, psí jazyky s�
 
 ## Kuřata zařvala
 
-  
-
 Jedli jsme s nimi na dvorku. Pekli maso a brambory v popelu.
 
 Zabili kvůli nám kuřata a králíky.
@@ -1097,8 +1001,6 @@ Je jasné, že jsme to my, kdo dostává.
 Usínáme pod ořechem, naplněni jako batolata.
 
 ## Tykám si se smrtkou
-
-  
 
 Bylo to, jako když kámen prolétne vodní hladinou. V domě žilo pohromadě několik rodin, bratři, sestry, švagrové a rodiče. Nejstaršímu cikánovi, kterému říkali baro dad, bylo sto let, ležel na posteli a díval se do sebe, sesychal se a drobil na stále menší kousky, až jsme ho těsně před smrtí vynesli i s postelí pod ořech a nechali ho přes noc venku. Shromáždila se celá rodina, psi se stočili vedle postele a poslouchali jsme, co baro dad říká.
 
@@ -1120,8 +1022,6 @@ Nebe se rozevřelo svítáním.
 
 ## Nic se mi nestane
 
-  
-
 Probudil mě nářek. Postel byla obklopená všemi obyvateli domu. Měli na sobě černé šaty a lesklé boty. Hlasitě naříkali, houpali se v kolenou a plakali.
 
 Odhrnula jsem peřinu a vstala. Hned se mě chopila jedna z žen a odvedla mě do domu. V kuchyni bylo teplo, voněla cukrem a chlebem. Na stole byl čistý bílý ubrus a spousta talířů a misek s jídlem: chleby, bochánky, koláče, boží milosti, pečené brambory, tvaroh ozdobený zeleninou, plněné papriky, kuřata, omáčky. Museli to připravovat celou noc.
@@ -1142,8 +1042,6 @@ Děcku vyklouzla bradavka a ono se hlasitě rozkřičelo. Mléko vytrysklo slab
 
 ## Stříkal jako hasič
 
-  
-
 Ležím na pohovce a koukám. Kolem mě ticho. Před chvílí jsem zlehka obcházela krabice s barvami, které nakoupil muž. Postavila jsem je vedle sebe a četla si jejich názvy. Bylo tu všechno: několik druhů běloby, žluť citronová a neapolská, kraplak, mnoho odstínů zeleně a modře, umbra přírodní, pálená a německá, černá. Tmavé lahvičky s lakem a olejem, stojan a plátno. Hory papíru, bílého i barevného. Štětce, pastelky, křídy. Radost pohledět.
 
 Zhasla jsem a vrátila se nahoru. Přechováváme to ve sklepě jako mrtvolku nemluvňátka.
@@ -1158,8 +1056,6 @@ Pak zavěsím, tvář zamženou vlastním dechem.
 
 ## V hrobě (ještě) nejsem
 
-  
-
 Znala jsem v lese každou větvičku, mraveniště, houbu; splývala jsem s ním a vyhledávala ho. Mišo taky vyhledával požitky, obrazy, pěkně plynule, v rytmu života rodiny, u níž jsme bydleli, přizpůsobil se jim jako koza pastvině.
 
 Po třech dnech jsme vykopali starému muži u kořene stromu hrob a pohřbili jsme ho. Ležel v jámě jako v kolíbce, zasypaný penězi, svatými obrázky a s naleštěnými střevíci pod hlavou. Zdálo se mi divné, že nejsem v hrobě s ním, jako kdyby si tam odnesl nějakou část ze mě a zbytek nechal venku; řekla jsem to Mišovi a Mišo mě objal. Mají mě rádi, ale Miša ještě trochu jinak, protože Mišo je Slovák a umí jazykem zacházet stejně měkce jako oni.
@@ -1167,8 +1063,6 @@ Po třech dnech jsme vykopali starému muži u kořene stromu hrob a pohřbili
 Potom jsme seděli venku a jedli všechno, co ženy připravily. Děti běhaly kolem nás, trousily pod sebe jídlo a psi je pronásledovali a snažili se jim vytrhnout sousto z rukou.
 
 ## Dvě krajiny (a obě celé)
-
-  
 
 Černé kafe jako pořádný životabudič a před spaním tři prsty pálenky z třešní rostoucích za domem, nakyslé a hrotité tak, že je v ní cítit smrt těch, kdo ji dělali; je trpká a škrabavá na rtech; obnažuje celý život stromu – od chvíle, kdy se ujal v zemi, vzklíčil a vyrazil ha povrch, vyhnal vzhůru první větev a kořenem narazil na prsní kůstku prvního pohřbeného – až do okamžiku, kdy poprvé rozkvetl, byl opylen a přinesl plody.
 
@@ -1179,8 +1073,6 @@ Někdy mi ženy přivazovaly na záda svá nemluvňata, abych je vzala s sebou 
 Anebo jsme s muži nasedli do staré škodovky a jeli nakupovat. Drncali jsme přes kořeny a povykovali, div jsme si nepřekousli jazyk.
 
 ## Zubama
-
-  
 
 V den, kdy jsem poprvé ochutnala psí maso, jsem se milovala s jedním z mužů.
 
@@ -1194,8 +1086,6 @@ Obnažil mi poštěváček a začal ho kousat, vykřikla jsem bolestí a odstr
 
 ## Gatě
 
-  
-
 Kde mám kalhoty, ptá se muž. Stojí u postele, na sobě modrou košili, kravatu a slipy, tvář ještě rozespalou, ale odhodlanou vyrazit a bojovat. Hledá kalhoty od obleku, který jediný si může dnes vzít, protože je tak psáno v dávných letopisech, a když tak neučiní, svět se vyvrátí od základu.
 
 Nevím, řeknu. Myslím, že kdysi jsem měla s jeho oblekem něco společného, ale nemůžu si vybavit co přesně.
@@ -1207,8 +1097,6 @@ Odmítnu vylézt z postele a připojit se k jeho pátrání, dívám se, jak 
 Představuju si ho v chlupatých kalhotách ze psa jako boha Pana, v jediné psí kůži, kterou jsem kdy viděla staženou a pověšenou na šňůře, aby proschla.
 
 ## Jedl Tizian psy?
-
-  
 
 Nasedli jsme do auta, já a čtyři muži, z nichž jeden se potom stal mým milencem, a jeli jsme do města pro psa. Zastavili jsme před útulkem a vešli dovnitř. Setkali jsme se s člověkem, který se o psy v útulku staral, měl pro nás už jednoho připraveného. Nevěděla jsem, na co cikáni psa chtějí; myslela jsem si, že je to přírůstek do jejich stáda, a tak jsem se ke psu sklonila a hladila ho. Vzali jsme si ho s sebou do auta, pes se mi uvelebil na klíně a usnul.
 
@@ -1230,15 +1118,11 @@ Zem mokvala k radosti nás všech, obřad pro nás i pro ně.
 
 ## Babička
 
-  
-
 I když jsme si byly s babičkou blízko, blizoučko, nikdy jsme spolu nemluvily o svých mužích. Babička je měla v sobě hluboko, zasunula je do svého nitra a zavřela je přede mnou. Nepochybovala jsem, že jich bylo mnoho a že byli krásní, mocní a s tmavou pletí, s vlasy zapletenými a namazanými olejem. Docházeli za babičkou do jejího stanu, posedávali u dveří a dívali se, jak babička léčí; s nedůvěrou čichali pach léků a dezinfekce, pozorovali její bílé ruce a jasné vlasy. Poprvé viděli tak světlé oči, že se v nich odráželo světlo a vracelo se zpátky do světa.
 
 V noci je babička obemkla bílýma nohama a pustila do sebe, svíjela se rozkoší a radostí, bez dechu, a nechávala se naplnit jejich vroucím mazlavým semenem mnohokrát za sebou. Neměla strach a její klín byl široký, neboť se uměla ochránit před početím. Tak to dělala s africkými muži až do rána, tak dlouho, dokud se slunce nevyhouplo nad horu za vesnicí a nerozsvítilo všechno kolem ní, zuby jejího milence, stříbrný fonendoskop na stole, knoflíky na šatech; a snubní prstýnek na její ruce.
 
 ## Tohle jde snadno pochopit
-
-  
 
 Tvoje síla je v tom, že můžeš pořád jít, řekl mi cikán, který se se mnou miloval. Po každý cestě, kterou si vybereš. Můžeš za sebou nechat všechno, co jsi měla a co už nechceš.
 
@@ -1246,15 +1130,11 @@ Slova z něj nechtěla vycházet; když seděl vedle mě, vypadal jako vlk na k
 
 ## Dolce
 
-  
-
 Stýskalo se mi. Moc se mi po tobě stýskalo. Přitiskla jsem tvář k profesorově rameni.
 
 Kůži měl hebkou jako kuní ocásek.
 
 ## Slepice
-
-  
 
 Svého dědečka jsem nikdy dobře nepoznala, protože s námi nežil.
 
@@ -1338,8 +1218,6 @@ Babička byla ženou.
 
 ## Prst uvnitř
 
-  
-
 Začala jsem stárnout a čím dál tím víc se podobám někomu, koho neznám. Svým rodičům?
 
 Babička je čokoládová královna se stříbrem v klíně, jedinečná tak, že do její podoby nelze dorůst.
@@ -1359,8 +1237,6 @@ V noci, když nemůžu spát, pozoruju muže a hmatám ve svém vnitřku. Prot
 Položím hlavu na polštář a čekám; měsíční světlo zmagořené září lamp se táhne ložnicí, pěkně potichoučku polehoučku, jak se sluší na nevítaného hosta.
 
 ## Znovu
-
-  
 
 Co mám dělat? zeptala jsem se profesora, zraněná, dotčená, urážená. Nežena.
 
@@ -1390,8 +1266,6 @@ Sklonila jsem se a začala sbírat rozdrobené zbytky barvy.
 
 ## Ty
 
-  
-
 A tak ti to teď všechno vyprávím, můj milý, ležím při tom v posteli, jako ležely všechny velké vypravěčky, tou z Tisíce a jedné noci počínaje. Ty chystáš něco k jídlu, mluvím do tvých zad a nespouštím z nich oči, zaznamenávám každý tvůj pohyb; když se natahuješ pro pánev, krájíš slaninu a cibuli, rozbíjíš vejce a opatrně je pouštíš na rozpálený olej, až se naše maringotka záplní vůní silnou jako modlitba. Pácháme činnosti zapsané v lidech od počátku, jíme a vyprávíme.
 
 Ve tmě a vzduchu je cítit pach ostatních mužů, cigarety a pot; natahuju je do nosu a je mi jasné, že stejně jako já cítím je, cítí oni mě. Nacházejí má znamení v každém koutě. Moje otisky jsou patrné na všem, na hrnečcích, na stole, v odkrojeném kousku chleba, pod polštářem, kde někdy zapomenu srolované kalhotky. Muži po práci jsou obzvlášť citliví na stopy ženy.
@@ -1402,8 +1276,6 @@ Učíš mě znovu myslet na to, z čeho jsem postavena.
 
 ## Bylo lůno Panny Marie plné?
 
-  
-
 Čichám se jako pes, poznávající své staré značky, a pak rozmlouvám se svým tělem, které se na mě směje v zrcadle: přežili jsme! A chce se vrátit ke starému životu, který byl dokonalý a plný jako lůno Panny Marie.
 
 Poslouchám hudbu.
@@ -1412,13 +1284,9 @@ Jednoho dne potkávám Blanku Kolkovou, servírku.
 
 ## Ty
 
-  
-
 Když jsi mi to jednou dělal, ustrnul jsi náhle v pohybu a já jsem si řekla, že už vlastně nevím, jaký Mišo byl.
 
 ## Žum
-
-  
 
 Smrt je do mě zavinutá jako listy kapradí. Nosím ji všude s sebou, vězí ve mně jako jehla; zapíchnutá hluboko, koluje krevním řečištěm a nevyjde nikdy z paty, jak se povídá.
 
@@ -1427,8 +1295,6 @@ Snažím se ze sebe vyloupnout sebe, a nejde mi to; je to, jako kdybych chtěla
 Jsem svátost mužů. Nemohla bych být bez nich. Co bych byla?
 
 ## Blanka s Marií a Marie s Blankou
-
-  
 
 Blanka Kolková je Marie. Má zázračnou moc. Zázračně ji potkávám a zázračně mi mizí, odjíždí pryč, do Českého Krumlova, města vodního zámku.
 
@@ -1444,8 +1310,6 @@ To bylo, když jsme s Blankou jely do Turecka, v malém autobuse. Tehdy jsem z
 
 ## Lemovaný stříbrem
 
-  
-
 Mišo si nabíral plnou lžíci. Tělo, vzduch, ramena, nebe, břicho, zemi, srst, kořeny, maso, semeno; bral všechno a rozcupoval to do posledního vlákna. Všemu dával barvy.
 
 Zdálo se mi, že má všechno, co potřebuje. Ale pro Miša potřebovat znamenalo naplnit. A Mišo byl bezedný.
@@ -1454,23 +1318,17 @@ I kdybych to věděla, zůstala bych s ním.
 
 ## Bez záchranné vesty
 
-  
-
 Už několikrát se mi zdálo o Mišových ramenou. Vypadala jako dvě lodě, dvě úzké pramice, s hlubokou jámou klíční kosti. Do smrti bych je mohla líbat, přejíždět špičkou jazyka posvátnou kůži.
 
 Bylo to jako čistit vitráž, pečlivě ji otírat jemným hadříkem, nečekané tvary, nečekané barvy, staré neohebné olovo.
 
 ## Chlív znovu plný
 
-  
-
 Mišo odněkud přinesl velké vyřezávané rámy se zašedlými okraji. Kdysi musely viset nejmíň na dvou skobách. Teď z nich byly obrazy vyžrané, nezbyl ani sen.
 
 Co s nimi budeš dělat? zeptala jsem se. V Mišově pokoji nebylo k hnutí. Mišo vzal sekyrku a rozštípal je. Seshora přiběhl domácí. Mišův pokoj byl plný třísek, zadělaný jako chlív. Byl to hřbitov rámů, a v něm se objevil vnitřek.
 
 ## Přední strana čokolády
-
-  
 
 Můj muž dostal zánět kloubů. Leží v posteli a sotva se hýbe. Sedím v kuchyni, piju limonádu a přemýšlím, co to pro mě znamená. Muž hned tak nevstane. Nejsem Ježíš Kristus.
 
@@ -1490,8 +1348,6 @@ Vyloupnu je ze stříbrné krabičky, žlutě žilkované tobolky, a muž se po
 
 ## Ledový čaj
 
-  
-
 Celou cestu bylo Blance špatně. Měla s sebou igelitové pytlíky a do těch zvracela. Lidé se po nás otáčeli, protože to smrdělo. Blanka pytlík pokaždé zauzlovala a já jsem ho dala do igelitky, kterou jsem měla u nohou. Sedadla byla potažená plyšem, s bílou dečkou na suchý zip na místě hlavy. Blanka se chvíli předkláněla, a když už nemohla, praštila hlavou do bílé dečky. Venku, když jsme si na parkovištích protahovali nohy, se smála a dělala jakoby nic.
 
 Měla černé tričko a bílé svaly, a ty svaly zářily proti modré obloze, až i řidič uznale mlaskl a celou cestu pouštěl Deep Purple a Rolling Stones, aby aspoň trochu přehlušil Blančino dávení.
@@ -1501,8 +1357,6 @@ Na benzinových pumpách jsme si kupovaly bagety a čokoládu a ledový čaj v
 Turci neměli vůbec žádné bagety, jenom žlutý pita chléb balený v umělé hmotě.
 
 ## Jdeme dolů
-
-  
 
 Měla bys mít nějaký vnější tvar, řekla Blanka, jinak tě lidé nemůžou uchopit, a to je znervózňuje.
 
@@ -1515,8 +1369,6 @@ Chodily jsme bok po boku, že by mezi námi papír neprostrčil, noha vedle nohy
 Studí mě to, řekla Blanka a slezla ze zábradlí.
 
 ## Masíčko
-
-  
 
 Blanka musela vědět, že má rakovinu už tehdy, když jsme seděly naproti sobě v kuchyňce a cpaly se krvavými rajčaty zalitými litrem olivového oleje.
 
@@ -1544,15 +1396,11 @@ A tak jsme šly zase vedle sebe a všechno, co jsme vypily, a bylo toho hodn�
 
 ## Jdeme nahoru
 
-  
-
 Vylezly jsme na vysoký kopec nad městem. Blanka se posadila na kámen, zula si boty a natáhla nohy. Pak si utrhla nějakou bylinu a rozkousala ji.
 
 Mluvit bylo zbytečné. Jsem pro řeč slepá.
 
 ## Chodím
-
-  
 
 Už zas někam jdeš? řekl muž. Neměl s útěky zkušenost. Tu získal až se mnou.
 
@@ -1561,8 +1409,6 @@ Sám nikdy utíkat neuměl.
 Stavěl se ke všemu čelem a chránil se svou taškou.
 
 ## Barvy jsou tak daleko
-
-  
 
 Pořád chodím po různých cestách, muži. Vzal sis mne s nohama vrostlýma do břicha tak, že už nezbylo místo na dítě.
 
@@ -1580,8 +1426,6 @@ Ale barvy jsou ode mě daleko.
 
 ## Potřebuje zenový mnich mapu?
 
-  
-
 Odcházím skoro každý den – ráno, v poledne nebo večer, tři magické časy, mohu si vybrat, který z nich chci, a jedna žena.
 
 Kdybych byla mnichem, uměla bych se spokojit s maličkostí a nehonila bych si srdce za jinými věcmi.
@@ -1597,8 +1441,6 @@ Nikdy bych neřekla, že mi patří všechno,
 … a přece je to tak, řekl profesor.
 
 ## Kopule jako Tádž Mahal
-
-  
 
 Postávaly jsme na nádraží a vdechovaly vzduch. Byl nádherný, elek­trický. Elektrický ode všech těch mašin, kterými byl skleněný poklop Hlaváku nacpaný k prasknutí elektrický holicími strojky, kterými si výpravčí a ostatní ajznboňáci obtahují tváře; elektrický hracími automaty, vlasy kluků, pochodujících po peronech a slídících po zákaznících; a hlavně elektrický napětím všech dálek, které odsud utíkají pryč.
 
@@ -1620,8 +1462,6 @@ Nebylo možné udržet ji v hlavě déle než minutu, pak hned zmizela.
 
 ## Ty
 
-  
-
 Rostu tebou, řeknu ti. Prohlížím si na světle tvoje prsty, rozežraná bříška napuštěná bílou barvou; třesu se před nimi, jsou rovné jako strom, neumíš nic než hloubit, anebo stavět; o takových lidech se říká, že jsou hloupí.
 
 Večer se postavím před zrcadlo, budu si prohlížet své tělo a přemýšlet. Pořádně se prohmatám, kost za kostí, sval za svalem, šlachu za šlachou, jako bych si sama stála modelem; pak se uchopím za vlasy a smýknu jimi, silně, abych cítila, jak se odlepují od lebky a berou s sebou kůži šedivou jako popel.
@@ -1633,8 +1473,6 @@ Jsem tělo zabalené do novin, málokdy otevřu ústa; jen pro muže, pro Blanku
 Máš v sobě moudrost a malou lysinku nad uchem; kdybys nebyl, nebyla bych já.
 
 ## Já I
-
-  
 
 Tohle jsou fakta, která se mi o sobě podařilo zjistit:
 
@@ -1656,15 +1494,11 @@ Ale může to vypadat i jinak.
 
 ## Designérský výstřelek
 
-  
-
 Večer jsem si uvařila čaj. Provoněl celý dům. Černý jako tma, s kouřovou vůní a svíravou chutí. Sevřel mi jazyk jako do želez, horkým hřbetem se otřel o patro, zapálil krk a zapustil kořeny v žaludku.
 
 Seděla jsem v kuchyni, ruku položenou na průhledném stole jako na obrovském akváriu.
 
 ## Chagalla jsem jí nikdy neukázala
-
-  
 
 Musím ti ukázat jednu krásnou věc, řekla jsem orosené Blance.
 
@@ -1681,8 +1515,6 @@ Muž Blanku necítil. Nepoznal, že jsem omletá jinýma rukama, jinde vydaná z
 A tak jsem si to nechala pro sebe; stulila jsem do sebe tolik něžných hodin, kolik jsem mohla; zatajila jsem mu desítky drobných zachvění a povzdechů, a to jen proto, že mi nedal příležitost mluvit.
 
 ## Já II
-
-  
 
 Dívám se na sebe do zrcadla; koukám, jak jsem povedená, s napjatou kůží, bílou jako kozí srst. Když natáhnu paže nahoru a zakloním hlavu, vidím, jak mi v důlku pod krkem pulzuje krev.
 
@@ -1724,13 +1556,9 @@ Milosrdný a milostivý je Hospodin.
 
 ## Ty
 
-  
-
 Povím ti, jak to bylo s Blankou poprvé.
 
 ## Ornitologové pláčou
-
-  
 
 Sobota ráno. Mrzlo až praštělo. Vrabci padali mrtví v letu. Okny nebylo vidět ven, námraza byla na prst silná. Důchodci neudělali ani krok bez svých okovaných holí. Psi přimrzali k chodníku. Všude možně praskala voda. Popelnice se nedaly otvírat a vedle nich se kupily hromady odpadků. Lidem klouzaly nohy a padali si do náručí. Velkoobchody s potřebami pro kutily prodávaly balíček dřevěných briket za padesát korun.
 
@@ -1739,8 +1567,6 @@ Daly jsme si s Blankou na Hlaváku kafe. Nádraží bylo přecpané lyžaři a�
 Blanka koupila lístky.
 
 ## Ty (& já)
-
-  
 
 Nevím, jestli to chci slyšet, řekneš.
 
@@ -1754,8 +1580,6 @@ Oči ti svítí a mně taky.
 
 ## Naštěstí nestiskla
 
-  
-
 Sedačky kožené, ulepené. Průvodčí unavený. Po snídani krátce, do svačiny daleko.
 
 Kam jedeme? zeptala jsem se Blanky. Okno bylo potažené mrazem.
@@ -1766,8 +1590,6 @@ A pak Blanka sjela na kolena do břečky, kterou jsme do kupé přinesly na bot
 
 ## Ty
 
-  
-
 No, a to je všechno, řeknu.
 
 Znovu se napiješ vodky. Polkneš.
@@ -1775,8 +1597,6 @@ Znovu se napiješ vodky. Polkneš.
 A od té doby jsem směla Blance počítat žebra. Hmatat její srdce. Poslouchat její střeva. Dotýkat se jí jazykem.
 
 ## Tak takhle je to
-
-  
 
 Na Blance se mi líbilo, jak uměla říct ne… Byla zhmotnělé černé ne; dokázala by říct ne i bohu a bylo by po spáse. Když řekla ne, bylo to konečné a napořád. Znala samu sebe a nedokázala se překvapit, a stejně jako se nedokázala překvapit, mohla se na sebe spolehnout.
 
@@ -1812,8 +1632,6 @@ Dělat vdolečky ze psů a prodávat je jako vegetariánské jídlo?
 
 ## Ty
 
-  
-
 Ptám se, co mohlo být horšího, miláčku, a v tvých očích vidím, že takových věcí může být mnoho.
 
 Pro mě v tu chvíli ne. Měla jsem v sobě špunt z nemocniční panychidy, provázek až do morku kostí, tělo propletené s nebožtíkem, kůži s kůží, kost s kostí, vlas s vlasem, a najednou mi Blanka Kolková, servírka, řekne: Vyliž mě! a zadek má rozevřený jako prýštící knihu, bílou prdel a v ní díru jako do komína, stehna od sebe, přidržuje si je rukama a ze zadku se jí jako z mlsné tlamy spouští šňůrka bílých korálků, skoro průsvitné rosy a já sebou lomcuju na opačném konci postele a dívám se na tu bílou výzvu…
@@ -1822,15 +1640,11 @@ A víš, co jsem udělala pak, můj milý?
 
 ## Překonala jsem se
 
-  
-
 Nakonec jsem se k Blančinýmu zadku přitiskla, opatrně, a vsunula do něj špičku jazyka.
 
 Tak se prdel Blanky Kolkové, servírky, která jednou rukou uzvedla dvanáct půllitrů, stala chodbou k mojí spáse.
 
 ## Ty
-
-  
 
 Říkala jsem ti, miláčku, že mám pochvu spojenou se srdcem.
 
@@ -1844,8 +1658,6 @@ Tak ti to teď všechno vyprávím, můj milý, ležím při tom v posteli, jak
 
 ## Americké filmy
 
-  
-
 Nebyla jsem jediná, s kým Blanka žila. To bylo od začátku jasné. Ale nikdy jsem na ní nenašla stopy po někom cizím, otisky zubů nebo škrábance nebo zbytek parfému. Rodila se pro mě pořád znovu, pomalu jsem si ji musela vybalovat z celofánu jako dárek k narozeninám.
 
 Rozčilovalo mě, že Blanka nebyla ochotná postarat se o své zdraví. Čas od času byla nemocná; buď se jí na pohlaví udělaly pupínky, nebo měla výtok, nebo zánět močové trubice. Bylo to na ní poznat už zdálky, pokaždé ke mně šla se skloněnou hlavou, ale příště to udělala zas.
@@ -1856,15 +1668,11 @@ Nebo jsme šly do kina, Blanka se mohla utlouct po amerických filmech; seděla 
 
 ## Ty
 
-  
-
 S tebou si můžu pořádně zakouřit. Už jsem si zvykla na chuť spálené umělé hmoty. Představuju si zlaté šroubky, jemně začazené, pěkné, jako ve starém hrobě. Vyměnila jsem svou dosavadní zubní pastu za zubní pastu pro kuřáky.
 
 Vždycky jsem byla hodně citlivá na pachy – a pachy, které jdou z tebe, jsou čisté jako sklo – cigaretový kouř, hlína, chleba, kyselé okurky, moč – ale čistá, poctivá, mokrý flanel, salám, teplo pelechu, vodka, vejce, vápno.
 
 ## Dušniakovo kafe
-
-  
 
 Mám ráda černé kafe, smrťáka, které jsem se naučila pít od Dušniaka.
 
@@ -1881,8 +1689,6 @@ Nosili nám kafe v malých šálcích, s umělohmotnou pláství mléka, oušk
 Anebo jsme si dělaly naděje ve čtyřkách, kde nosili kafe v ohni­vzdorných sklenicích s broušenými výstupky. Do lógru bývala zapíchnutá hliníková lžička.
 
 ## Kremrole
-
-  
 
 Dlouhý výlet s Mišem na Slovensko; odcházíš od jednoho, abys mohla být s druhým, řekl profesor, když jsem ho opouštěla.
 
@@ -1912,8 +1718,6 @@ A pak ty trubice plnila krémem, bílým jako Mišovy vlasy.
 
 ## Jako králíci
 
-  
-
 Ten večer jsme se v Mišově pokoji milovali.
 
 Milovali jsme se pokaždé, když jsme na to dostali chuť. A když zaškubalo jenom v jednom z nás, druhý se mu nabídl.
@@ -1923,8 +1727,6 @@ Nastav se mi, říkal Mišo, a mně bylo hned jasné, že stačí stáhnout si 
 A já jsem dělala to samé. V noci, když spal, jsem si nahá klekala nad jeho ústa. Nutila jsem ho, aby se mnou ve městě chodil na dámské záchodky a dráždil mě rukou, zatímco jsem se opírala o dveře, u kterých chyběl klíč.
 
 ## Mišova maminka má silný hlas
-
-  
 
 Koupelna Mišových rodičů byla stará a ulepená. Mišova maminka patřila k lidem, kteří se domnívají, že koupelnu není třeba mýt, protože má samočisticí schopnosti. Pod nohama béžovožluté dlaždice, podobné s květinovým vzorkem na zdech. Nad vanou karma s kolečkem otočeným na nejnižší teplotu. Vanu zakrýval plastikový závěs potištěný obrázky usměvavého černého kocoura. Na jejím dně bylo několik stočených černých chlupů a pár zrnek písku. Osprchovala jsem je a dívala se, jak se točí v díře odpadu na drobných bublinkách jemně zrůžovělé pěny. Pak jsem si do vany sedla a pustila si sprchu. Umývala jsem si podpaží a stehna. Nakonec jsem opatrně vystoupila, očichala ručníky visící na věšáku vedle dveří a do jednoho z nich se utřela. Na poličce nad umyvadlem ležely stříbrné nůžky se silnými čelistmi, jaké se používají na nehty u nohou.
 
@@ -1946,8 +1748,6 @@ Ještě nikdy nedala Mišova maminka tak jasně najevo, že mě nemá ráda.
 
 ## Ty
 
-  
-
 Ležíme vedle sebe na posteli úzké jako prkno. Za chvíli budu muset vyběhnout ven, vypila jsem příliš mnoho. Ale zatím nemám ani pomyšlení na to, že bych se zvedla, přelezla tě a nahmatala ve tmě kliku.
 
 Včera jsi řekl, abych mluvila rychleji.
@@ -1957,8 +1757,6 @@ Proč? zeptala jsem se. Nudím tě? Nebo na stavbě končíte?
 Jsi na odchodu, odpovíš mi.
 
 ## Český Krumlov
-
-  
 
 V létě si Blanka našla práci venku. Pro servírku není těžké někam přijít a najít si místo. Blanka nejdřív hospodu okukovala, obcházela po špičkách, a když se rozhodla, vešla dovnitř s jistotou, že místo dostane.
 
@@ -1981,8 +1779,6 @@ Nikdy jsem nevydržela a pokaždé jsem na ni zakřičela.
 Byla překvapená a objaly jsme se.
 
 ## Vlasy I
-
-  
 
 Profesoru Wabneggerovi bylo sedmdesát let. Někdy, když jsem nemohla usnout, počítala jsem si, co všechno mohl zažít. U snídaně jsem mu to řekla.
 
@@ -2034,8 +1830,6 @@ Večer jsem ho přinutila jít ještě na parník a doma mi masírovat hlavu. A
 
 ## Soustředíme se
 
-  
-
 Tohle máš od Miša, řekl někdy, když jsem sáhla do barvy. Samotnou by mě to nenapadlo, ale když to řekl, viděla jsem, že má pravdu.
 
 Hlas měl tichý a mazlivý.
@@ -2045,8 +1839,6 @@ To tě naučil on! utrhl se na mě občas Mišo.
 Tak se spolu skrze mě potýkali.
 
 ## Vlasy II
-
-  
 
 Mišo měl velkou hlavu a vlasy husté jako srst. Byly tak pevně přirostlé ke kůži, že mezi ně nešly zabořit prsty.
 
@@ -2059,8 +1851,6 @@ Moje cesta k barvě, řekl Mišo.
 Při milování jsem mu je občas vytrhla.
 
 ## Haiku
-
-  
 
 Dotkla jsem se boule pod Blančinými žebry.
 
@@ -2077,8 +1867,6 @@ do prdele
 ale ne!
 
 ## Urna Hamé Babice
-
-  
 
 Babička umřela jednoduchou smrtí. Chytla rýmu a na tu rýmu umřela.
 
@@ -2113,8 +1901,6 @@ A pak jsme šli hledat nonstop, kde bychom si mohli koupit další.
 Když mě potom přesvědčovali, že mě Mišo nemohl mít rád, věděla jsem, že to není pravda. Protože Mišo se mnou seděl na nábřeží až do svítání.
 
 ## Parte není záložka – i když by mohlo být
-
-  
 
 Dneska ráno mi přišlo Blančino parte. Poslední věc, která se jí týká. Leží teď přede mnou na stole a já snídám. Ještě jsem ho neotevřela. K snídani mám vajíčka, chleba se sýrem a čaj.
 
@@ -2158,8 +1944,6 @@ Když vyjdeme ven, rozběhnu se zpátky a koupím si balíček kávy.
 
 ## Na co si potrpím
 
-  
-
 Mám ráda mužské nohy. Jsou silné a tuhé. Jejich kůže je napjatá jako blána bubnu. Když se zpotí, svítí jako dva tlustí lesklí brouci.
 
 Přesně takové nohy má můj muž, a proto jsem si ho vzala. Viděla jsem ho ráno sedět na posteli, nohy roztažené, stehna svírala úhel, který k dokonalosti přivedl Jan Nepomucký, a když jsem se dívala dál, od kolen vzhůru, viděla jsem, že jeho nohy jsou pevné a rovné jako dvě rukojeti nožů.
@@ -2174,8 +1958,6 @@ Načnu malý tuhý balíček, ale do ničeho dalšího se nepustím, jdu k muž
 
 ## Blanka nechce podvést České dráhy
 
-  
-
 Blanka odešla. Když jsme spolu byly naposled, její nádor vypadal jako třetí prs. Koupím mu zvláštní lístek, řekla Blanka. Připomíná mi míč. Nebo dětskou hlavu.
 
 A pak odjela.
@@ -2189,8 +1971,6 @@ Když mi přišlo parte, chtěla jsem odjet a zjistit, kdo s Blankou byl. Ale 
 Dobře.
 
 ## Ty
-
-  
 
 Nediv se, že jsem se obrátila k svému muži. Nikdy jsem neřekla, že ho nemiluju. Kdysi jsem si ho vzala, a to znamená, že jsem k tomu měla nějaký důvod, a ten důvod nebyly jenom jeho nohy. Jak jsem už říkala: jsem hodně hloupá, ale takhle přece jenom ne.
 
@@ -2224,8 +2004,6 @@ Vana zůstala modrozelená od toho, jak se koupal.
 
 ## Ty
 
-  
-
 Zaspali jsme. Ráno se k nám dobývají tví kolegové. Máme zamčené dveře a zvenku jsou slyšet jejich hlasy. Lomcují klikou. Rychle vstávám a oblékám se. Pak odemkneš a postavíš na čaj… Mezitím se nahrnou dovnitř, kouří a staví na stůl tašky s pivem. Už mě znají a zdraví mě, rozmrzelí, že museli čekat.
 
 Uděláš čaj do dvou plechových hrnečků, ale pivo si neodpustíš, zastrčíš ho pod paži a opatrně vyjdeme ven. Posadíme se na dřevěnou desku, která se povaluje na zemi. Podáš mi hrneček a svůj čaj vypiješ najednou. Potom si otevřeš pivo.
@@ -2244,8 +2022,6 @@ Když odjeli, vzala jsem si lžičku, šla do koupelny a tou malou lžičkou js
 
 ## Tres faciunt collegium
 
-  
-
 Na výstavu do Hannoveru jsme jeli ve třech. Poslední večer se v mém pokoji setkal Mišo s profesorem; Mišo by se přetahoval o každý kousek mého těla. Profesor se otočil na bok.
 
 Nad ránem jsem tiše vstoupila do Mišova pokoje.
@@ -2256,8 +2032,6 @@ Dotkl se mého ramene a narazil na profesorovu ruku.
 
 ## Ty
 
-  
-
 Obejmi mě, řeknu ti. Sedíme na rozbité lavičce v parku.
 
 Kouřím moře cigaret, a ty mě v tom ještě podporuješ. Když dojdou, běžíš k trafice a kupuješ mi další.
@@ -2267,8 +2041,6 @@ Je neděle. Cesty jsou tiché.
 Až ti to dopovídám, zvedneme se a půjdeme do Brikety na pořádný oběd.
 
 ## Mechanický velbloud
-
-  
 
 Možná nejsem tak pevná, jak jsem si myslela, řeknu profesorovi. Na slunci je průsvitný, hnědá kůže, bílé nehty, oči jako síť. Kolem nás se škvíří lidé. Eskalují nahoru i dolů, oběma směry. Udělám kolem nás bublinu lásky. Japonci si ji nadšeně fotografují. Profesor pije pivo. Na nohou má sandály. Pak se mu zatřese ruka.
 
@@ -2290,8 +2062,6 @@ Cestou se mění v starce. Není to moje vina. Nevěřím, že bych měla takov
 
 ## Ty
 
-  
-
 Mluvila jsem o tom s Blankou i s mužem, ale nikdy to nebylo takové jako s tebou.
 
 Ty jsi jako čistá nádoba, vracíš mi všechno zpátky; když mluvím, mlčíš.
@@ -2303,8 +2073,6 @@ Koukáme se spolu do plánů Prahy, je kulatá.
 Od té doby, co tě mám, se toulám jenom bezpečně, k tobě do ma­ringotky a zpátky.
 
 ## Sním III
-
-  
 
 Zase se mi zdál sen o Mišových nohou. Vypadají pořád stejně, bosé, umazané, ochozené, zespodu popraskané. Mezi prsty jehličí. A já se ho pokaždé musím zeptat: Kde sis tak umazal nohy?
 
@@ -2326,21 +2094,15 @@ A tak pořád dokola, dokud se mi to nezhnusí a naše oči na sebe nenarazí 
 
 ## Moderní muž & péče o tělo
 
-  
-
 Můj muž chodí do hotelu Green Garden, kde si nechává pečovat o nohy. Má je potom hedvábné a lesklé, nehty jako růžové lupínky, patičku dokonalou a hladkou jako cibuli.
 
 To je vada. Jeho chodidla nejsou dlažbou těla, ale jsou hebké jako vepřové kolínko, takže se do nich nemůžou zachytávat vůně ani barvy; neproklouzne tam ani stéblo, ani zblo, ani kapka bahna, ze kterého by se dalo něco postavit, nic.
 
 ## Mišovy nohy jsou věčné
 
-  
-
 To je důvod, pravím ti, proč se mi nezdá o mužových nohách. Není v nich žádná prasklina, kudy by se mohl protáhnout sen. Zato k Mišovým nohám jsem připoutaná. Jsou věčné jako Quo vadis, Domine v Římě.
 
 ## Ty
-
-  
 
 Tak ti to teď všechno vyprávím, můj milý, ležím při tom v posteli, jako ležely všechny velké vypravěčky, tou z Tisíce a jedné noci počínaje.
 
@@ -2353,8 +2115,6 @@ Zvykla jsem si tam chodit jako domů. Napřed zvonek a poštovní schránka se 
 Pokaždé, když jsem přišla, odložila jsem si v chodbě kabát, a teprve pak šla za Mišem. Můj kabát se dotýkal svým rukávem Duš­niakova. Nosil prošívaný kabát, označený na zádech bílými pís­meny. Aspoň jsem věděla, kam patří. Kde ho najdu. Každá žena by dala půl života za to, kdyby její muž chodil tak poznačený. Byl označený jako obraz. Připoutaný ke své práci. DPMP kabát pana D.
 
 ## Básně
-
-  
 
 Nejlíp se mi pracovalo s barvami od firmy Talens a Umton. Jejich barvy jsem ráda používala, vyslovovala i čichala: Mišo používal Lefranc Huile, taky Umton a Dajer & Rowney. Jejich katalogy byly vždycky o něco poetičtější, protože byly psané anglicky, a anglicky to zní líp.
 
@@ -2872,8 +2632,6 @@ Caput mortuum je jako dobře prosetá hlína, vlhká, mazlavá, cukrárna pro pe
 
 ## Ty
 
-  
-
 Briketa leží kousek pod smíchovským nádražím. Obědy tu vaří mastné a tučné, chodí sem železničáři, tak aby měli sílu řídit železo a páru v atomovém století.
 
 Večer je náš, a tak se jdeme posadit k řece, pěkně kultivovaně do kampského parku, na zeď těsně nad zdymadlo. Cestou jsme nakoupili spoustu zrní, občas zalovím v tašce a vytáhnu barevný chřestící poklad, samé obilí a tvrdá kulatá semena, nasypu ti to do dlaní a nechám prohmatat. A pak to všechno pustíme do vody. Za chvíli si toho všimnou kachny a racci a brzo jich je kolem nás plno; rozhazujeme do vody zrní a ptáci se o něj perou.
@@ -2892,15 +2650,11 @@ Před námi trčí katedrála, kterou je lepší obcházet s dalekohledem, a n
 
 ## Ty (a všichni ostatní)
 
-  
-
 Požíráme se navzájem, jak bez sebe nemůžeme být. Ležíme na sobě a mezi námi není ani skulina; ty máš jazyk a já mám ústa.
 
 Tys měl ženu, řekla jsem jednou Dušniakovi, když jsme se domilovali, a on se zeptal: Už jsi viděla muže bez ženy?
 
 ## Žena
-
-  
 
 Byla jsem: dvojnásobnou milenkou, sběračkou a lovkyní.
 
@@ -2918,8 +2672,6 @@ Byl úplně beze snů. Narodil se se ženou vrostlou mezi nohama.
 
 ## Ty
 
-  
-
 Napřed ti to vyprávím pomalu, jako když Audrey Hepburnová kouří cigaretu v dlouhé špičce. Z jejích cigaret nikdy neopadává popel. Ale pak pomalu zrychluju, mám skoro stejné tempo jako netrpělivý majitel, kterému stavíš dům. A čím déle ti to povídám, tím víc ze sebe cítím pach, který jsem dostala při narození a o který se nesmí přijít, jinak je to konec, smrt ještě před smrtí.
 
 Začínám vidět pod pokličku toho, který mě uvařil.
@@ -2930,8 +2682,6 @@ Nechápu, proč takhle nezpovídají kněží – místo dřevěných budek ši
 
 ## Ty
 
-  
-
 Byla jsem unavená, řekla babička. Unavená vlastní silou. Potřebovala jsem muže, do něhož bych mohla bušit. A tak jsem zůstala sama.
 
 Tak ti to teď všechno vyprávím, můj milý, ležím při tom v posteli, jako ležely všechny velké vypravěčky, tou z Tisíce a jedné noci počínaje. Ty chystáš něco k jídlu, mluvím do tvých zad a nespouštím z nich oči, zaznamenávám každý tvůj pohyb; když se natahuješ pro pánev, krájíš slaninu a cibuli, rozbíjíš vejce a opatrně je pouštíš na rozpálený olej, až se naše maringotka zaplní vůní silnou jako modlitba. Pácháme činnosti zapsané v lidech od počátku, jíme a vyprávíme.
@@ -2939,8 +2689,6 @@ Tak ti to teď všechno vyprávím, můj milý, ležím při tom v posteli, jak
 Rozhodla jsem se, že já sama nezůstanu.
 
 ## Ty
-
-  
 
 Včera jsem jela metrem.
 
@@ -2954,8 +2702,6 @@ Tak jsem po dlouhé době viděla profesora.
 
 ## Moderní muž & pohřební zvyky
 
-  
-
 Někdy si představuju, jak jsem vznikla. To můj muž nemůže pochopit. Stydí se za to, že byl počat v mokru a devět měsíců polykal vodu. Má dojem, jako by byl od počátku. Jenže pro něj to není povznášející pocit jako pro bohy, ale stahuje ho k zemi, ohýbá mu hřbet a nechává v nejistotě. A to jenom proto, že si nechce představit, jak vlhký ocas jeho otce naplňuje tekoucí lůno ženy.
 
 Jeho rodiče jsou seriózní popel ve svědomitě popsaných pikslách.
@@ -2967,8 +2713,6 @@ Možná proto mám nohy. A Mišo taky.
 Jeden čas maloval děti v prenatálním stavu, připomínaly lidské ucho, jemná průhledná hlava a končetiny stočené pod sebe. 
 
 ## Ty
-
-  
 
 Muž neví, že za tebou chodím.
 
@@ -2988,8 +2732,6 @@ Nelze k němu nemít útrpnost. I hněv je příliš. Stejně jako mu bylo dá
 
 ## Ještě trefím
 
-  
-
 Trvalo mi dlouho, než jsem se rozhodla jít za profesorem.
 
 Měla jsem pocit, že jsme domluvili. Jestli neumřeli, žijí dodnes. A jestli umřeli, taky žijí dodnes. Jsem dokonalá urna, dokud mi srdce bije, zůstává všechno, co ve mně je, naživu. Všechno tryská chutí, šťávou a silou a nevybledne to ani v nejprudším světle; jsem jako žena, která snědla popel svého muže, a tím mu dala život.
@@ -3002,8 +2744,6 @@ Dveře domu byly naštěstí otevřené, protože jinak bych si netrouf­la zazv
 
 ## Proniká ústy
 
-  
-
 Večer jsme si udělali čaj, a pak otevřeli víno. Profesor si koupil rychlovarnou konvici a novou konvicí na čaj, takže jsem ho mohla bez obav rozlít do poslední kapky a po rzi ani stopa.
 
 V bytě bylo šero, ve kterém bývá vidět jenom to, co být vidět má; ať je to tělo nebo srdce, ať jsou to andělé, panstva nebo mocnosti, všechno s pokožkou ojíněnou na dotek.
@@ -3015,8 +2755,6 @@ Pak se dostaly do popředí moje zuby; zuby, které v sobě nesou všechno tím
 Vstoupil do nich opatrně rukou, jemně mi stiskl jazyk a dotkl se zezadu zubů, potom mi hebce odhrnul spodní ret a přejel prstem po dásních, a nakonec jeho ruka přitlačila a našla si hlavičky šroubků, o kterých věděli jenom ti, kterým jsem to řekla.
 
 ## Židovský hřbitov se v noci zamyká
-
-  
 
 Každé ráno musím myslet na to nejlepší, co jsem kdy poznala. Je to povinnost, stejný úkol, jaký mají na bedrech mniši, kojící matky a doktoři – totiž vyrvat ze země krtka a pověsit ho s čumákem nastaveným světlu; vzpomenout si na všechno dobré a s náskokem dvaceti let (proti Augustinovi) se zapíchnout kráse přímo do třetího oka.
 
@@ -3038,8 +2776,6 @@ Stalo se to čtrnáct a půl století poté, co se pod posvátným stromem Bo o
 
 ## Pražský místopis
 
-  
-
 Hloubětín leží daleko od Středu. Je slepý – ani jedno z jeho očí nezachytí žižkovskou věž, Chrám, Rozhlednu. Nemá nic.
 
 Pod ním jsou kilometry železných a plastových trubek, metro, větrací šachty, slepé chodby.
@@ -3051,8 +2787,6 @@ Blížili jsme se k sobě opatrně a pomalu, ale tak blaženě, jako když čl
 Vskočil do mě; udělal to stejně, jako se krotí kůň, anebo chytá had, držel mě za hlavu, prsty nacpal do nozder a stiskl slabiny.
 
 ## Talking vagina
-
-  
 
 Pavla Pohanková objevila svoji podstatu. 29. nisanu, což je nepokryté, a ohmatané jaro se stromy dokonale probuzenými a nabobtnalými. Aspoň to si myslí turisté, kteří se nedostanou na židovské hřbitovy, kde mají stromy pokaždé zpoždění, a to hlavně proto, že mají utlačené kořeny tou spoustou náhrobků, a i když prorůstají mrtvými a zvedají náhrobní kameny jako Helena Fibingerová železnou kouli, nemůžou se pořád smířit s tím, že mají tak omezený prostor. Když se začnou pupeny na těch stromech rozlupovat, sladce to praská a je to slyšet až ke mně do pokoje.
 
@@ -3122,8 +2856,6 @@ Ježíš věděl, co říká, když mluvil o úzké bráně.
 
 ## Ty
 
-  
-
 Přeju si, velmi intenzivně si přeju proniknout do duše svých mužů. Představuju si, jak bych jí procházela a zkoumala každou myšlenku, ukrytou v jejích záhybech, každý náznak citu, který bych v ní objevila. Došla bych až k okamžiku, kdy muž byl ženou v břiše své matky, nohy zkřivené pod bradou a tělo zamotané do hebké šťávy, a pak bych mu proklouzla pod rukou, do okamžiku prvního výstřiku, objevu lásky, rozhodnutí zemřít.
 
 Prošla bych zákoutí všech mužů: toho, který mě zplodil, toho, který na mě poprvé promluvil, toho, který mě zanechal osamělou, toho, který znal barvy; mého muže, tebe, Dušniaka.
@@ -3131,8 +2863,6 @@ Prošla bych zákoutí všech mužů: toho, který mě zplodil, toho, který na 
 Chtěla bych v nich najít obraz sebe, části mého těla, které si s sebou odnáší, vlákna tkání, odraz očí, zářivou duhovku, pohled vzhůru a poslední slovo. Chtěla bych vědět, jestli jsem v nich zanechala víc než prostitutka, které zastavili na okraji silnice a podivili se, jak je drahá. Zajímá mě, jestli do smrti vstoupí s obrazem té, která je porodila, anebo té, která je milovala. Chci vědět, jestli z našich rozhovorů zbylo tolik, že by se nasytila celá armáda. Chci vědět, jestli jsem věčná.
 
 ## Návod pro silné
-
-  
 
 Ještě jsem se nerozhodla, jakým způsobem projdu tímhle životem.
 
@@ -3160,8 +2890,6 @@ Nikdy jsem nepochopila, jak mohli Zadar srovnat se zemí. Nevěřím, že kdokol
 
 ## Jméno
 
-  
-
 Ještě nenastal čas, abych vyslovila své jméno vlastními ústy.
 
 Je to jméno, které mi dal otec. Jsem přesvědčena, že můj otec zmizel jako opice hned potom, co se dozvěděl, že oplodnil.
@@ -3187,8 +2915,6 @@ Nevím, co si zvěstují lidé, hovořící za jízdy s řidičem, ale je to zv
 Otec zazvěstoval mé jméno a matka ho přijala, předala ho babičce společně se mnou a pupeční šňůrou.
 
 ## Zadar
-
-  
 
 Pan Novak Golembović, kterému patřila pekárna v ulici Svobody, sedával každé ráno pod plátěnou střechou. Měl solární kalkulačku, tenkou jako papír. Mohla jsem na ní oči nechat. Před sebou měl papír s tržbou za předchozí den a odčítal a sčítal.
 
@@ -3256,8 +2982,6 @@ Ptáci ve vzduchu se zastavili, ňadra mi vypučela o půl čísla a z pravé
 
 ## Ty
 
-  
-
 Jsi na mě tak hodný, že zkoušíme všechny pekárny, co jich kolem je. Ale sladkých rohlíků se nemůžeme dopátrat. Nakonec to vzdáváme na Staromáku, kde stará babka krmí holuby jako slepice.
 
 Lidé odhazují vajgly na zem, po které já stěží přecházím; po obdélníkovém hřišti s kostičkami, označujícími smrt českých pánů (na místě královské lóže trůní stánek s buřty a praženou kukuřicí).
@@ -3271,8 +2995,6 @@ I kdybych chtěla šukat s celým světem, s těmi, kdo přechází popravč�
 Jenomže to není o vztahu k trojbarevnému obdélníku, ale o mužích vůbec; a tak jako nikdo, kdo někdy cítil pach mladého býka, kterému uřezávají kulky, už nikdy nemohl stejk, já nedokážu přejít přes šrafovaný obdélník, který propotilo dvacet sedm mužů najednou.
 
 ## Maminka
-
-  
 
 Mohla jsem si spoustu práce ušetřit, mohla jsem trochu ztlumit svou loveckou touhu a zeptat se Dušniaka přímo…
 
@@ -3289,8 +3011,6 @@ Jsem ráda, když mě pokládá muž. Uchopí mě za boky a pod lopatkami, a v
 Udělal to přesně tak, jak jsem chtěla. Uložil mě a zaklínil se mezi má stehna. Mám stehna jako Moravské pole, hladká a vyplněná šepotem; vstoupil do mého nitra, tak čistého; vešel do mě svým jazykem, svou řečí, svou hlubokou i vnější strukturou, zakroužil boky, podrobil si posvátno, chytil rybu a stal se mým mužem. Vzájemně jsme se utěšovali, houpali se na vratkých nohách jako dva pavouci, s duněním jsme se spojili a dostali se tak hluboko, že jsme mohli těžit dětské vzpomínky.
 
 ## Ty
-
-  
 
 S radostí koukám po všem, co tvůj příbytek nabízí.
 
@@ -3312,8 +3032,6 @@ Ztratila jsem fenu v Českém Krumlově, a teď ji těžko hledám. Světlou s
 
 ## V kavárně Louvre na Národní třídě
 
-  
-
 Vrátila jsem se pět měsíců po skončení války, řekla babička. Před Muzeem jsem se setkala s mužem. Hedviko, řekl a vzal mě pod paží. Zavedl mě do kavárny, ke stolku, kde seděla mladá žena. Když nás slyšela, otočila se a já uviděla její tvář. Zapamatovala jsem si ji. Byla to tvář ženy, která pro muže zapomene sama na sebe. Byla to žena, za níž odešel můj muž.
 
 Přežili jsme spolu válku, řekl muž, když mi ji představoval, a posadil se vedle ní. Znamenalo to, že přežijeme všechno. Znamenalo to, že bych mu měla odpustit. Začaly se mi třást ruce. Byl to můj muž. Kvůli němu jsem se vrátila. Spočítala bych na prstech jedné ruky, kolikrát jsem s ním strávila noc.
@@ -3328,13 +3046,9 @@ Zastavila jsem ho jenom na chvíli, řekla babička. Přivítal mě dlouhým pal
 
 ## Ty
 
-  
-
 Na to jsem si vzpomněla, když mě položil a začal do mě hloubit šachtu.
 
 ## Nedostatek stavebního materiálu
-
-  
 
 Připadá mi, že muž něco zavětřil. Závan větru, který vydaly mé ruce, když jsem se rozpřáhla. Visí mi na nohou a prosí: Neodcházej! Neodcházej!
 
@@ -3345,8 +3059,6 @@ Neboj se, řekla jsem. Neodejdu, dokud nedopíšu tenhle příběh.
 Neví, že to nezávisí na něm, ale na úzké maringotce, proležené matraci a akutním nedostatku sedlových tašek tmavě okrové barvy.
 
 ## Sváteční produkce
-
-  
 
 Dnes v noci ke mně přijdou mrtví a budou si stěžovat, že si je beru do úst. Kdyby věděli, že mne děsí míň než účet za elektřinu, s hanbou by se stáhli nazpátek. Přijdou v následujícím pořadí: baro dad, babička, dědeček, Blanka, profesor, Siddhárta Gautama zvaný Buddha, Mišo, pan a paní Golembović, a – což mě překvapí – můj muž.
 
@@ -3378,8 +3090,6 @@ I tak je to pro mě zážitek natolik silný, že odcházím do kuchyně, vytah
 
 ## Pod hladinou
 
-  
-
 Jednoho dne mě Dušniak vzal dolů. Dívala jsem se do útrob metra a kolem nás svištěly vlaky. Dušniak se dotýkal elektřiny.
 
 Miloval mě od samého začátku. Viděl ve mně každou žilku a cítil teplo mého podbřišku. Moje cévy mu připomínaly potrubí.
@@ -3388,15 +3098,11 @@ Potřebovala jsem ho jako černá kobyla tmu.
 
 ## Ty
 
-  
-
 Chodili jsme s Mišem do pustého lesa na okraji Hloubětína. Ten les hraje v našem příběhu důležitou roli. Víc nemůžu říct. Chodili jsme s Mišem do pustého lesa na okraji Hloubětína.
 
 Tohle ti říkám, protože tehdy se mi ještě leskly zuby. Teď mám zuby z porcelánu, a ty se nelesknou, i když používám zubní pastu s perleťovou esencí.
 
 ## Vzájemná transplantace orgánů
-
-  
 
 Když jsem se líbala s Ďušniakem, byla to chuť, při které buňky žaludku volaly: Kurva, tohle přece známe! a vzpomínaly na dobu, kdy pes byl vlkem.
 
@@ -3405,8 +3111,6 @@ A Mišo objížděl jazykem mé zuby, zuby jako studnu.
 Šukali jsme jako psi, takže jsme pokaždé museli chvilku počkat, než jsem uvolnila sevření, aby se ze mě mohl vůbec dostat, Mišo nebo Dušniak, ale pak stačilo slovo a znovu jsme do sebe vklouzli a já už jsem neměla svoje játra, plíce a ledviny, ale jejich a oni zase moje.
 
 ## Autovrakoviště
-
-  
 
 Každý večer jsme si s Mišem četli.
 
@@ -3417,8 +3121,6 @@ Zdola jsem cítila Dušniakův dech a vedle mě četl stříbrným hlasem Mišo
 K tomu, abych rostla vzhůru, jsem potřebovala dvě nohy.
 
 ## Jednoduše a střelhbitě
-
-  
 
 Když jsem se probudila, Mišo stál u mé postele.
 
@@ -3440,15 +3142,11 @@ Předtím, než se to stalo, jsem se posadila.
 
 ## A úplně
 
-  
-
 Mé zuby. Ptáci si je odnesli do svých hnízd. Na trávě jemná tekutá blána.
 
 Mišovy barvy.
 
 ## Zoubky
-
-  
 
 Mišo si vybral právě moje zuby.
 
@@ -3461,8 +3159,6 @@ Mohla jsem se spolehnout, že dokážou kousat, dávit, rdousit, hníst, žvýka
 Mišo si je vyhlédl jako vázu v bazaru.
 
 ## Ty
-
-  
 
 Vím, že se setkáváme naposled. Snažím se na to myslet už od rána, a podle toho se připravit. Každý pohyb, který dělám, dělám s vědomím, že zítra už ti o něm nebudu moci vyprávět.
 
@@ -3477,8 +3173,6 @@ Když odcházím, zeptám se tě, co bych měla dělat.
 K večeři jsme měli polévku z kuřecích drůbků.
 
 ## Maluju
-
-  
 
 Náš dům naplnilo ticho. Je to ticho před bouří, takové tu ještě nikdy nebylo. Je to ticho, v kterém každý zvuk může znamenat něco ne­dobrého, takže ten druhý musí vzhlédnout, zjistit, co se děje, a pak, pokud je to možné, ulehčeně vydechnout.
 
@@ -3501,8 +3195,6 @@ Je mi ho líto, když vidím, jak opatrně a nenápadně hledá pevné body, kt
 Takové pocity mívají lidé, kteří omylem zabloudí na večery poezie, a pak polekaně sedí v poslední řadě a neodvažují se odejít, místo toho počítají okna a obezřetně sledují hodinky.
 
 ## Ve velkém
-
-  
 
 Dnes jsem se rozhodla držet tryznu za všechny svoje mrtvé.
 
