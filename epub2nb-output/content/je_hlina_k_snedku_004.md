@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Je hlína k snědku](https://search.mlp.cz/cz/titul/je-hlina-k-snedku/2566345/#book-content) tak, jak bylo vydáno nakladatelstvím Paseka v Praze a Litomyšli v roce 2015. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -14,4 +16,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 29. 1. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>
