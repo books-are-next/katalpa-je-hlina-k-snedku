@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Vstup
 
 Jmenuju se Nina. Narodila jsem se 23. března roku 1893 v Praze.
@@ -124,6 +126,10 @@ Jednou jsem mu řekla, aby se otočil. Udělal to a přistoupil ke mně, napjat
 
 Nebylo to o nic horší než teplá hrachová kaše.
 
+</section>
+
+<section>
+
 V roce 1903 jsem v zimě našla pod knihovnou svůj perleťový knof­lík a nevěděla jsem, co s ním mám dělat. Nacpala jsem si ho do úst a polkla ho.
 
 V roce 1903 bylo mé matce padesát tři let. V témže roce zemřel papež Lev XIII. a byl vyhlášen třídenní národní smutek.
@@ -143,6 +149,10 @@ Bylo mi dvanáct let a dostala jsem svou první periodu. Matka mi dala speciál
 Bylo to poprvé, co jsme jahody se smetanou snědli.
 
 Pak k nám Abraham Animus přestal docházet.
+
+</section>
+
+<section>
 
 Musela jsem se naučit milovat. Naštěstí mi byly dějiny nakloněny a naučily mě to velmi rychle. Nejdřív se mi změnilo tělo. Všechno, co jsem v sobě měla v zárodku, se zvětšilo. Břicho mi napuchlo, prsa vypadala jako biliárové koule a stehna se obalila tukem. S tím se nedalo nic dělat. Začala jsem chápat, proč ode mne pan Abraham Animus utekl. Pohlaví jsem měla jako obrovský květ, šťavnaté a plné plátků; někdy jsem je rozhrnovala a vytahovala dlaň plnou husté tekutiny. Musela jsem se smířit se svým tělem, a když jsem si v boku nahmatala malou kuličku, byla jsem si jistá, že v něm roste něco skvělého, něco, co ho umlčí navždy a vrátí mě opět do dětských let, takže mě budou pohřbívat v malé, úzké a bílé rakvi.
 
@@ -1476,6 +1486,10 @@ Máš v sobě moudrost a malou lysinku nad uchem; kdybys nebyl, nebyla bych j�
 
 Tohle jsou fakta, která se mi o sobě podařilo zjistit:
 
+</section>
+
+<section>
+
 775323/2061
 
 177/64
@@ -1489,6 +1503,10 @@ BRh+
 223 378 596
 
 AOC 72 – 72
+
+</section>
+
+<section>
 
 Ale může to vypadat i jinak.
 
@@ -2356,6 +2374,10 @@ bronze
 
 kupfer
 
+</section>
+
+<section>
+
 A tohle je anglicky psaný katalog firmy Lefranc Huile, u které se nej­míň žádané barvy vyrábí pouze ve dvacetimililitrových tubách:
 
 Viridian Sulphur Yellow
@@ -2589,6 +2611,10 @@ Copper
 Bronze
 
 Gold
+
+</section>
+
+<section>
 
 U firmy Lefranc Huile to dělá dohromady 15 odstínů žluté, 19 odstínů červené, 9 odstínů fialové, 20 odstínů modré, 17 odstínů zelené, 3 odstíny černé a 5 odstínů bílé. Víceméně, protože u některých barev, těch na pomezí, záleží na přesném množství pigmentu, a tak třeba takové Cadmium Yellow Orange je barva, která se nemůže rozhodnout a má to tak i v názvu, a přitom je dokonale krásná a záleží jenom na tom, kolik se do ní dá pigmentu a s kterou barvou se namíchá.
 
@@ -3239,3 +3265,5 @@ Dívala jsem se, jak zvratky pospíchají ulicí, pronikají do spár v dlažb�
 S šaty tvrdými jako obsidián jsem se vystavila světlu a vydala domů.
 
 Jmenuju se Nina.
+
+</section>
