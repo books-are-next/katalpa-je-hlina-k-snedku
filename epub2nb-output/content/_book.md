@@ -2,25 +2,26 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Je hlína k snědku?
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Jakuba Katalpa
   publisher: Městská knihovna v Praze
   modified: '2021-01-26T00:00:00.000Z'
+  contentType: prose
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
-  - je_hlina_k_snedku_001.html
-  - je_hlina_k_snedku_002.html
-  - je_hlina_k_snedku_003.html
-  - je_hlina_k_snedku_004.html
   - je_hlina_k_snedku_005.html
-  - je_hlina_k_snedku_006.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -28,5 +29,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---
