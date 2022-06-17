@@ -19,7 +19,10 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: je_hlina_k_snedku_005.html
+        title: Jmenuju se Nina ...
+        hiddenTitle: true
     isSection: true
     listType: plain
 static:
