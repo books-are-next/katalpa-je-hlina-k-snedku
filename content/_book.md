@@ -21,7 +21,7 @@ tocBase:
   - id: section-1
     children:
       - link: je_hlina_k_snedku_005.html
-        title: Jmenuju se Nina ...
+        title: Je hlína k snědku?
         hiddenTitle: true
     isSection: true
     listType: plain
