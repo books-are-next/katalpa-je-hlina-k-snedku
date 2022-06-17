@@ -4,10 +4,9 @@ title: Tiráž
 
 **Jakuba Katalpa**  
 **Je hlína k snědku?**  
-**Redakce Markéta Teuchnerová**  
-**Vydala Městská knihovna v Praze**  
-**Mariánské nám. 1, 115 72 Praha 1**  
-**Verze 1.0 z. 29. 1. 2021**  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
 V MKP 2. elektronické vydání z 17. 6. 2022.
 
 ***
