@@ -16,7 +16,7 @@ meta:
 readingOrder:
   - promo.html
   - je_hlina_k_snedku_005.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
