@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2606-5
 readingOrder:
   - promo.html
   - je_hlina_k_snedku_005.html
