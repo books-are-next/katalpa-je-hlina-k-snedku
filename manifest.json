@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "katalpa-je-hlina-k-snedku-373d8d9",
-  "revision": "373d8d9",
+  "identifier": "katalpa-je-hlina-k-snedku-b8f16f2",
+  "revision": "b8f16f2",
   "readingOrder": [
     "promo.html",
     "je_hlina_k_snedku_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:57:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639831925
+    "date": "Tue Oct 04 2022 16:45:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901937532
   },
   "documents": [
     {
@@ -1134,9 +1134,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 140,
+      "words": 138,
       "chars": 909,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "je_hlina_k_snedku_005.html",
@@ -1154,9 +1154,9 @@
   ],
   "totals": {
     "all": {
-      "words": 33775,
+      "words": 33773,
       "chars": 195643,
-      "ideas": 1638
+      "ideas": 1636
     },
     "chapters": {
       "words": 33627,
